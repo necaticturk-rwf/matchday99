@@ -1,3 +1,5 @@
+> **GEÇERSİZ / ESKİ RAPOR:** v0.9 oyuncu dokularını bozuyordu. [v0.9.1 düzeltme raporunu okuyun](../v0.9.1/RAPOR_V09_1.md).
+
 # MATCHDAY 99 v0.9 — Kulüp bayrakları güncellemesi
 
 Release v1.0.0 içindeki v0.8 dosyasından üretildi. Oyun: ISS Pro Evolution (USA), SLUS-01014.

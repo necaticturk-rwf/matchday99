@@ -1,0 +1,38 @@
+MATCHDAY 99 v0.9.1 — OYUNCU DOKULARI DÜZELTİLDİ
+
+Eski v0.9 yaması oyuncu dokularını bozuyordu. Bu paket o hatayı düzeltir.
+Orijinal v0.8 veya önceki bozuk v0.9 kaynak olabilir. Kaynak dosyalar değişmez.
+Python 3 yeterlidir; ek Python paketi kurulmaz.
+
+1. Bu ZIP'in içindeki bütün dosyaları yeni bir klasöre çıkarın.
+2. Visual Studio Code ile bu klasörü açın. Terminal > New Terminal seçin.
+3. Zafer'in mevcut klasörleri için şu komutu çalıştırın:
+
+py apply_v09_1.py "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms" "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms\MATCHDAY99_v09_1"
+
+Kaynak v0.8 BIN'iniz artık roms klasöründe yoksa, bozuk v0.9 klasöründen onarın:
+
+py apply_v09_1.py "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms\MATCHDAY99_v09" "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms\MATCHDAY99_v09_1"
+
+İki komuttan yalnızca uygun olan birini çalıştırın. Kaynak klasör, Track 01 BIN
+ve Track 02..12 ses BIN'lerini birlikte içermelidir. RAR dosyasının kendisine
+uygulanmaz. Yeni çıktı klasörü boş olmalıdır.
+
+4. Başarılı sonuç "Verified MATCHDAY 99 v0.9.1 created" der. ePSXe'yi kapatıp
+   yeniden açın ve yeni MATCHDAY99_v09_1 klasöründeki şu dosyayı seçin:
+
+ISS Pro Evolution - MATCHDAY99_v09_1.cue
+
+Eski emülatör save state'ini yüklemeyin. Yeni CUE'den oyunu baştan başlatın;
+eski state, bozuk sürümün RAM/VRAM içeriğini tekrar yükler.
+
+"Output folder must be empty" hatası:
+Çıktı klasöründe dosyalar bulunduğunu belirtir. Yama daha önce başarıyla
+oluşturulduysa tekrar çalıştırmak yerine yeni CUE'yi açın. Yeniden oluşturmanız
+gerekiyorsa komuttaki çıktı klasörünü örneğin MATCHDAY99_v09_1_YENI yapın.
+Kaynak v0.8 dosyalarını veya mevcut klasörlerinizi silmeniz gerekmez.
+
+Test: PCSX-ReARMed'de 20 kulübün seçim bayrakları, büyük maç öncesi bayrakları,
+skorbord bayrakları, iki takımın fotoğrafları ve maçın başlaması kontrol edildi.
+Oyuncu dokuları, forma dokuları ve bayrak dışındaki renk paletleri, aynı maçın
+v0.8 sürümü ile birebir eşleşiyor. ePSXe bu bulut ortamında test edilemedi.
