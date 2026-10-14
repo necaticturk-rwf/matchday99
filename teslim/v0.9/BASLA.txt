@@ -1,0 +1,19 @@
+MATCHDAY 99 v0.9 - Yama kullanimi
+
+Python olmadan (Flips):
+1. Release v1.0.0 icindeki v0.8 RAR dosyasini tamamen cikarin.
+2. Flips uygulamasinda Apply Patch secin.
+3. MATCHDAY99_v08_to_v09.bps dosyasini secin.
+4. Kaynak olarak ISS Pro Evolution (Track 01) - MATCHDAY99_v08.bin secin.
+5. Ciktiyi ISS Pro Evolution (Track 01) - MATCHDAY99_v09.bin adi ile kaydedin.
+6. Paketteki ISS Pro Evolution - MATCHDAY99_v09.cue dosyasini yeni BIN'in yanina koyun.
+7. v0.8 klasorundeki Track 02 - Track 12 BIN dosyalarini da bu klasore kopyalayin.
+8. Emulatorde yeni CUE dosyasini acin.
+
+Flips: https://github.com/Alcaro/Flips/releases/latest
+
+Python 3 varsa alternatif:
+python apply_v09.py "v08_dosya_klasoru" "yeni_v09_klasoru"
+
+Python betigi 12 BIN ve CUE dosyasini ayri klasore olusturur; ozgunleri degistirmez.
+Yanlis v0.8 kaynagi veya bozuk yama reddedilir. Ayrintilar RAPOR_V09.md icindedir.
