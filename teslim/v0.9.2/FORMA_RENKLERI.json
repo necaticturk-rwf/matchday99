@@ -1,0 +1,442 @@
+[
+  {
+    "slot": 1,
+    "club": "Crystal Palace",
+    "home": {
+      "template": 66,
+      "shirt": "#d71920",
+      "trim": "#1b458f",
+      "shorts": "#1b458f",
+      "socks": "#1b458f",
+      "pattern": "red_blue_stripes",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#1b458f",
+      "shorts": "#1b458f",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 2,
+    "club": "Tottenham Hotspur",
+    "home": {
+      "template": 63,
+      "shirt": "#eeeeee",
+      "trim": "#132257",
+      "shorts": "#132257",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#132257",
+      "trim": "#eeeeee",
+      "shorts": "#132257",
+      "socks": "#132257",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 5,
+    "club": "Manchester City",
+    "home": {
+      "template": 71,
+      "shirt": "#6cabdd",
+      "trim": "#eeeeee",
+      "shorts": "#eeeeee",
+      "socks": "#6cabdd",
+      "pattern": "plain",
+      "numbers": "#132257"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#702b3f",
+      "trim": "#eeeeee",
+      "shorts": "#eeeeee",
+      "socks": "#702b3f",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 7,
+    "club": "Fulham",
+    "home": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#cc1826",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#cc1826",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 8,
+    "club": "Manchester United",
+    "home": {
+      "template": 58,
+      "shirt": "#da291c",
+      "trim": "#eeeeee",
+      "shorts": "#eeeeee",
+      "socks": "#202020",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 9,
+    "club": "Liverpool",
+    "home": {
+      "template": 61,
+      "shirt": "#c8102e",
+      "trim": "#eeeeee",
+      "shorts": "#c8102e",
+      "socks": "#c8102e",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#16764b",
+      "shorts": "#202020",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 10,
+    "club": "Aston Villa",
+    "home": {
+      "template": 59,
+      "shirt": "#7a263a",
+      "trim": "#95bfe5",
+      "shorts": "#eeeeee",
+      "socks": "#95bfe5",
+      "pattern": "contrast_sleeves",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#95bfe5",
+      "shorts": "#95bfe5",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 12,
+    "club": "Leeds United",
+    "home": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#1d428a",
+      "shorts": "#eeeeee",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#ffcd00",
+      "trim": "#1d428a",
+      "shorts": "#1d428a",
+      "socks": "#ffcd00",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 13,
+    "club": "Arsenal",
+    "home": {
+      "template": 59,
+      "shirt": "#db0007",
+      "trim": "#eeeeee",
+      "shorts": "#eeeeee",
+      "socks": "#db0007",
+      "pattern": "contrast_sleeves",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#f7d047",
+      "trim": "#063672",
+      "shorts": "#063672",
+      "socks": "#f7d047",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 14,
+    "club": "Newcastle United",
+    "home": {
+      "template": 69,
+      "shirt": "#eeeeee",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#202020",
+      "pattern": "stripes",
+      "numbers": "#dd0000"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#7a263a",
+      "trim": "#183b68",
+      "shorts": "#183b68",
+      "socks": "#183b68",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 16,
+    "club": "Hull City",
+    "home": {
+      "template": 69,
+      "shirt": "#f5a623",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#f5a623",
+      "pattern": "stripes",
+      "numbers": "#202020"
+    },
+    "away": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 17,
+    "club": "Brentford",
+    "home": {
+      "template": 69,
+      "shirt": "#eeeeee",
+      "trim": "#e30613",
+      "shorts": "#202020",
+      "socks": "#e30613",
+      "pattern": "stripes",
+      "numbers": "#202020"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#142b4b",
+      "trim": "#e30613",
+      "shorts": "#142b4b",
+      "socks": "#142b4b",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 19,
+    "club": "Coventry City",
+    "home": {
+      "template": 71,
+      "shirt": "#82c6e8",
+      "trim": "#eeeeee",
+      "shorts": "#82c6e8",
+      "socks": "#82c6e8",
+      "pattern": "plain",
+      "numbers": "#132257"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#192b49",
+      "trim": "#eeeeee",
+      "shorts": "#192b49",
+      "socks": "#192b49",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 21,
+    "club": "Everton",
+    "home": {
+      "template": 60,
+      "shirt": "#003399",
+      "trim": "#eeeeee",
+      "shorts": "#eeeeee",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#f7d047",
+      "trim": "#003399",
+      "shorts": "#003399",
+      "socks": "#f7d047",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 22,
+    "club": "AFC Bournemouth",
+    "home": {
+      "template": 70,
+      "shirt": "#da291c",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#202020",
+      "pattern": "stripes",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#202020",
+      "shorts": "#202020",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 23,
+    "club": "Sunderland",
+    "home": {
+      "template": 69,
+      "shirt": "#eeeeee",
+      "trim": "#eb172b",
+      "shorts": "#202020",
+      "socks": "#eb172b",
+      "pattern": "stripes",
+      "numbers": "#202020"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#192b49",
+      "trim": "#eb172b",
+      "shorts": "#192b49",
+      "socks": "#192b49",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 24,
+    "club": "Chelsea",
+    "home": {
+      "template": 60,
+      "shirt": "#034694",
+      "trim": "#eeeeee",
+      "shorts": "#034694",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#f7d047",
+      "trim": "#034694",
+      "shorts": "#034694",
+      "socks": "#f7d047",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 25,
+    "club": "Brighton",
+    "home": {
+      "template": 69,
+      "shirt": "#eeeeee",
+      "trim": "#0057b8",
+      "shorts": "#0057b8",
+      "socks": "#eeeeee",
+      "pattern": "stripes",
+      "numbers": "#dd0000"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#f7d047",
+      "trim": "#0057b8",
+      "shorts": "#0057b8",
+      "socks": "#f7d047",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  },
+  {
+    "slot": 28,
+    "club": "Ipswich Town",
+    "home": {
+      "template": 60,
+      "shirt": "#0044aa",
+      "trim": "#eeeeee",
+      "shorts": "#eeeeee",
+      "socks": "#0044aa",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 61,
+      "shirt": "#ef7922",
+      "trim": "#202020",
+      "shorts": "#192b49",
+      "socks": "#ef7922",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    }
+  },
+  {
+    "slot": 29,
+    "club": "Nottingham Forest",
+    "home": {
+      "template": 61,
+      "shirt": "#dd0000",
+      "trim": "#eeeeee",
+      "shorts": "#eeeeee",
+      "socks": "#dd0000",
+      "pattern": "plain",
+      "numbers": "#eeeeee"
+    },
+    "away": {
+      "template": 67,
+      "shirt": "#eeeeee",
+      "trim": "#dd0000",
+      "shorts": "#202020",
+      "socks": "#eeeeee",
+      "pattern": "plain",
+      "numbers": "#132257"
+    }
+  }
+]

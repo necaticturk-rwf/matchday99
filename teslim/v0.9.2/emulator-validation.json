@@ -1,0 +1,166 @@
+{
+  "emulator": "PCSX-ReARMed libretro c881679 / HLE BIOS / software GPU",
+  "clubs": [
+    {
+      "slot": 1,
+      "club": "Crystal Palace",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 2,
+      "club": "Tottenham Hotspur",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 5,
+      "club": "Manchester City",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 7,
+      "club": "Fulham",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 8,
+      "club": "Manchester United",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 9,
+      "club": "Liverpool",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 10,
+      "club": "Aston Villa",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 12,
+      "club": "Leeds United",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 13,
+      "club": "Arsenal",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 14,
+      "club": "Newcastle United",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 16,
+      "club": "Hull City",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 17,
+      "club": "Brentford",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 19,
+      "club": "Coventry City",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 21,
+      "club": "Everton",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 22,
+      "club": "AFC Bournemouth",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 23,
+      "club": "Sunderland",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 24,
+      "club": "Chelsea",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 25,
+      "club": "Brighton",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 28,
+      "club": "Ipswich Town",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 29,
+      "club": "Nottingham Forest",
+      "both_menu_kit_palettes_verified": true,
+      "both_in_match_kit_UV_textures_and_256_color_palettes_verified": true,
+      "persistent_face_hair_atlas_unchanged": true,
+      "home_away_team_photos_and_match_start_captured": true
+    }
+  ],
+  "ePSXe_tested": false
+}

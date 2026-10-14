@@ -1,5 +1,7 @@
 # MATCHDAY 99 v0.9.1 — oyuncu dokusu düzeltmesi
 
+[Geleneksel kulüp formaları da eklenen güncel v0.9.2 sürümü](../v0.9.2/README.md).
+
 [**Düzeltilmiş yama paketini indir**](https://github.com/necaticturk-rwf/matchday99/raw/refs/heads/matchday99-v09-downloads/teslim/v0.9.1/MATCHDAY99_v09_1_YAMA.zip)
 
 Önceki v0.9 yaması, bayraklarla oyuncu dokularının grafik belleğinde çakışmasına yol açıyordu. v0.9.1 bu hatayı düzeltir. Orijinal v0.8 veya bozuk v0.9 dosyalarından ayrı, doğrulanmış BIN/CUE oluşturur; kaynaklara yazmaz.

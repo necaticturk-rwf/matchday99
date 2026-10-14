@@ -1,0 +1,39 @@
+MATCHDAY 99 v0.9.2 — 20 KULÜP / 40 FORMA
+
+İç saha ve deplasman formaları geleneksel kulüp renklerine uyarlandı.
+Menüdeki forma simgeleri de aynı renklerle gösterilir. v0.9.1 bayrak düzeltmesi
+ve mevcut futbolcu isimleri, mevkileri, forma numaraları ve özellikleri korunur.
+
+KURULUM
+1. ZIP'in bütün dosyalarını yeni bir klasöre çıkarın.
+2. Bu klasörü VS Code'da açın.
+3. Terminalde + işaretinin yanındaki oktan Command Prompt / Komut İstemi seçin.
+   Önceki PSReadLine yapıştırma hatası nedeniyle CMD önerilir.
+4. Şu komutu yeni terminalde çalıştırın:
+
+py apply_v09_2.py "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms\MATCHDAY99_v09_1" "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms\MATCHDAY99_v09_2"
+
+Kaynak klasör adı sizde farklıysa ilk yolu mevcut oynadığınız v0.9.1 BIN/CUE
+ve 11 ses BIN'inin bulunduğu klasörle değiştirin. Kaynaklar değişmez veya silinmez.
+
+5. "Verified MATCHDAY 99 v0.9.2 created" mesajından sonra ePSXe'yi kapatıp açın.
+   Yeni MATCHDAY99_v09_2 klasöründeki şu dosyayı seçin:
+
+ISS Pro Evolution - MATCHDAY99_v09_2.cue
+
+Eski save state'i yüklemeyin. Oyunu yeni CUE'den baştan açın; eski state eski
+forma paletlerini RAM/VRAM'den tekrar yükler. Hafıza kartları değiştirilmez.
+
+v0.8 veya eski v0.9'dan doğrudan kurulum da desteklenir. İlk yolu o sürümün
+BIN ve ses dosyalarının bulunduğu klasör yapın. Script sürümü SHA-256 ile tanır
+ve aynı doğrulanmış v0.9.2 çıktısını üretir. RAR dosyasına doğrudan uygulanmaz.
+
+"Output folder must be empty" çıkarsa:
+Yeni klasör daha önce oluşturulmuşsa CUE'yi açın. Yeniden kurmanız gerekiyorsa
+çıktı yolunu MATCHDAY99_v09_2_YENI gibi başka boş bir klasör yapın.
+
+TEST
+40 formanın tamamı PCSX-ReARMed'de maç içinde ve ayar menüsünde doğrulandı.
+Her kulüp için v0.9.1 ile aynı takımlar karşılaştırılarak yüz/saç dokularının
+birebir korunduğu kontrol edildi. İç saha ve deplasman takım fotoğrafları ZIP'teki
+40_FORMA_EMULATOR.png dosyasındadır. ePSXe bu bulut ortamında test edilmedi.
