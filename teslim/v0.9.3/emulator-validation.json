@@ -1,0 +1,151 @@
+{
+  "emulator": "PCSX-ReARMed libretro c881679 / HLE BIOS / software GPU",
+  "cold_boot_source": "final v0.9.3 CUE, no older-version state",
+  "clubs": [
+    {
+      "slot": 1,
+      "club": "Crystal Palace",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 2,
+      "club": "Tottenham Hotspur",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 5,
+      "club": "Manchester City",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 7,
+      "club": "Fulham",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 8,
+      "club": "Manchester United",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 9,
+      "club": "Liverpool",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 10,
+      "club": "Aston Villa",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 12,
+      "club": "Leeds United",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 13,
+      "club": "Arsenal",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 14,
+      "club": "Newcastle United",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 16,
+      "club": "Hull City",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 17,
+      "club": "Brentford",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 19,
+      "club": "Coventry City",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 21,
+      "club": "Everton",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 22,
+      "club": "AFC Bournemouth",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 23,
+      "club": "Sunderland",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 24,
+      "club": "Chelsea",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 25,
+      "club": "Brighton",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 28,
+      "club": "Ipswich Town",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 29,
+      "club": "Nottingham Forest",
+      "all_22_native_skin_fields_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "both_team_photos_and_match_start_captured": true
+    }
+  ],
+  "ePSXe_tested": false,
+  "single_player_native_skin_field_A_to_D_trial_verified": true,
+  "Leeds_name_six_language_tables_verified": true,
+  "screenshots_visually_reviewed": true,
+  "Leeds_name_confirmed_on_final_build_team_selection_screen": true
+}

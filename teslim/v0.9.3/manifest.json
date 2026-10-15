@@ -1,0 +1,131 @@
+{
+  "version": "v0.9.3",
+  "source_sha256": "2b6a0fa935d82a63df9f8ea7ec5f1b71fd70f2bb71ebe46ee995b054cfe8b34d",
+  "target_sha256": "c7c4186c609d21181c9586ba9cd18b27d6a855e44a191b3aefa895a80d20b7b6",
+  "changed_files": [
+    "/SELECT.BIN"
+  ],
+  "sectors": [
+    871,
+    937,
+    938,
+    939,
+    940,
+    941,
+    959,
+    960
+  ],
+  "roster_players": 440,
+  "portraits_reviewed": 439,
+  "skin_records_changed": 217,
+  "skin_values": "Native game A/B/C/D; visible skin tone only; lighting and four-color-option approximation",
+  "unverified_players_preserved": [
+    "Barnsley"
+  ],
+  "target_file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_3.bin",
+  "cue_file": "ISS Pro Evolution - MATCHDAY99_v09_3.cue",
+  "target_bytes": 216739152,
+  "sources": [
+    {
+      "version": "v0.9.2",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_2.bin",
+      "sha256": "2b6a0fa935d82a63df9f8ea7ec5f1b71fd70f2bb71ebe46ee995b054cfe8b34d",
+      "patch": "MATCHDAY99_v09_2_to_v09_3.bps",
+      "patch_sha256": "ff1f4624dbb5ea0effa04568da929912a721a422060eb6a36bd709e066287ff4",
+      "patch_bytes": 2856
+    },
+    {
+      "version": "v0.9.1",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_1.bin",
+      "sha256": "ba8c9560305e466c76e11e5a23d480afbd06db1001eee5170dd03e0a4cd74d8a",
+      "patch": "MATCHDAY99_v09_1_to_v09_3.bps",
+      "patch_sha256": "edac8a641027effd94f5a1f0189f949d58dc9ed11d9de703cab91ba363fb6e2d",
+      "patch_bytes": 475821
+    },
+    {
+      "version": "v0.8",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v08.bin",
+      "sha256": "7d2f3bd3827e36d3badeee14871674fcc3bc91e693928437f3b089de70d9372c",
+      "patch": "MATCHDAY99_v08_to_v09_3.bps",
+      "patch_sha256": "0a4b1e14ccdbbde26a7528921c0221c283b43c04698d16e6648b277f56bc39dc",
+      "patch_bytes": 870164
+    },
+    {
+      "version": "v0.9",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09.bin",
+      "sha256": "cd19a0452a1ad901ca997fa5c7a597a9a1316d6083d07dd42ec79eaebb0acd9d",
+      "patch": "MATCHDAY99_v09_to_v09_3.bps",
+      "patch_sha256": "44f46aae6ad576bfa4dc288840231cfd967d0bc02e47bec36edbfb86295ba4f8",
+      "patch_bytes": 614461
+    }
+  ],
+  "audio_tracks": [
+    {
+      "file": "ISS Pro Evolution (Track 03).bin",
+      "size": 16962624,
+      "crc32": "357f7393",
+      "sha256": "354bbbb1029db800d7fb39b2febf18f0246e629c2725d188d67223be89ee3a29"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 04).bin",
+      "size": 4534656,
+      "crc32": "f3806032",
+      "sha256": "5fc8367e709644c968e033528ee55beb909681946bcec3fb669a6c544cc81ce6"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 05).bin",
+      "size": 18084528,
+      "crc32": "a06b85be",
+      "sha256": "1d8837c84c9587d755a190d1d19ce6e0d6f84d82cb126d7b3baa83a8591bb902"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 06).bin",
+      "size": 17164896,
+      "crc32": "8b281741",
+      "sha256": "75cfc5b34e78a294b467f8631349bb5bd679cc9e658cb37cd348ac0cdc85883d"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 07).bin",
+      "size": 19020624,
+      "crc32": "5a217a89",
+      "sha256": "7e646931a3750873a51a04c6d0f683997270db63f4a972b7e1f13b21d85cff49"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 08).bin",
+      "size": 20556480,
+      "crc32": "a1ef2a4a",
+      "sha256": "9372dc5c7d863eab1325f53c6cd87f7457b7854c47a9a3db92daadf9457a4e94"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 09).bin",
+      "size": 19864992,
+      "crc32": "da91b98f",
+      "sha256": "3e2ebcf61a8a6c99b45f9062500d4c8c4bc6da874325f607f2e838016e07faec"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 10).bin",
+      "size": 25458048,
+      "crc32": "6835bbac",
+      "sha256": "008e9362f31d0b2294612fbc8ad1c594135970c85ba71d643f9d63fc21041e25"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 11).bin",
+      "size": 1100736,
+      "crc32": "838f9a7b",
+      "sha256": "9c940f07331e4ad6d5463bed0ec7221ac6ec1972e4b647fa10a8cf54b906dc06"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 12).bin",
+      "size": 41164704,
+      "crc32": "ac481053",
+      "sha256": "bd7d13fbe906bf35823cdffe134c2ef3e150db7a581287dba1e4b08715fbbfb3"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 02).bin",
+      "size": 7023072,
+      "crc32": "1fec2e9a",
+      "sha256": "854f6dfe1e9a30c20f8a5ba6c5f6d830876221d0e6f95f968f5d838e78a29f11"
+    }
+  ],
+  "cue_sha256": "0e29e478a521e337d223185004c058f0659b7f742433332efec09d30c634730f"
+}
