@@ -1,0 +1,15 @@
+{
+  "version": "v0.9.4",
+  "source_track01_sha256": "1fc70cd075a00da1030a06143c4efa246d9df713c0e4467400666280aafe9504",
+  "workbook": "MATCHDAY99_v09_4_Premier_League_20_Takim.xlsx",
+  "workbook_sha256": "4dd6654978a0c5fe4615a4bb0cba815b319e9745fef410e76b3f6ab92fc79890",
+  "clubs": 20,
+  "players": 440,
+  "players_per_club": 22,
+  "worksheets": 22,
+  "all_game_names_read_from_verified_BIN": true,
+  "all_440_workbook_rows_reopened_and_compared": true,
+  "all_20_club_tabs_reopened_and_compared": true,
+  "national_teams_and_original_other_clubs_included": false,
+  "game_files_modified": false
+}

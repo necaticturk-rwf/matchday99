@@ -1,5 +1,7 @@
 # MATCHDAY 99
 
+[**20 Premier League kulübü / 440 oyuncu — Excel kadro listesini indir**](teslim/kadrolar/README.md).
+
 [**v0.9.4 — Oyuncu boyu ve vücut tipi güncellemesini indir**](teslim/v0.9.4/README.md).
 
 439 boy ve 431 kilo kaydı kaynaklandırıldı; 418 boy ve 327 doğal vücut tipi seçimi güncellendi. Oyunda sayısal kg alanı bulunmadığından kilo, A–H vücut tipleriyle yaklaşık temsil edilir. Doğrulanamayan dokuz kilonun mevcut vücut tipleri ve Fraser Barnsley'nin boyu korundu. Önceki ten/Leeds adı, 40 forma, bayrak/doku düzeltmeleri ve diğer oyuncu özellikleri aynıdır. Çift tıklanan kurucu kaynakları koruyarak ayrı, doğrulanmış BIN/CUE oluşturur.
