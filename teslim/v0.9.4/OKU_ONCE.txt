@@ -1,0 +1,102 @@
+MATCHDAY 99 v0.9.4 — Boy ve vücut tipi güncellemesi
+
+KURULUM
+1. ZIP'e sağ tıklayıp Tümünü ayıkla ile bir klasöre çıkar.
+2. Çıkardığın klasörde KUR_V09_4.cmd dosyasına çift tıkla.
+3. Kurucu Masaüstü/ePSXe205/roms içindeki mevcut oyunu arar. Öncelik v0.9.3'tür;
+   v0.9.2, v0.9.1, v0.9 ve v0.8 de desteklenir. Bulamazsa açılan pencerede
+   mevcut BIN ve 11 ses dosyasının bulunduğu klasörü seç.
+   Oyun klasörünü KUR_V09_4.cmd dosyasının üzerine sürüklemek de mümkündür.
+4. Kurulum ayrı MATCHDAY99_v09_4 klasörüne yapılır; kaynak dosyalar korunur.
+   Dolu klasör varsa üzerine yazılmaz. Tam ve doğrulanmış v0.9.4 zaten varsa
+   onun CUE dosyası gösterilir; başka bir dolu klasör varsa yeni numara seçilir.
+5. ePSXe'yi kapatıp yeniden aç; Run ISO ile şu YENİ dosyayı aç:
+   ISS Pro Evolution - MATCHDAY99_v09_4.cue
+   Eski save state yükleme; önceki sürümün oyuncu verilerini RAM'e geri getirir.
+
+Windows'ta Python 3 ve daha önce kullandığın py başlatıcısı gerekir.
+PowerShell'e komut yapıştırmak gerekmez. ZIP'in içinden doğrudan çalıştırma.
+Yaklaşık 550 MB boş alan ayır. Tam oyun dosyaları bu ZIP'te yer almaz;
+yama, doğrulanmış mevcut oyunundan emülatörde açılabilir BIN/CUE oluşturur.
+
+GEREKİRSE MANUEL KOMUT (apply_v09_4.py klasöründe)
+py apply_v09_4.py "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms\MATCHDAY99_v09_3" "C:\Users\Zafer Yerlikaya\Desktop\ePSXe205\roms\MATCHDAY99_v09_4"
+İkinci klasör yeni veya boş olmalıdır. Kaynak v0.9.2 ise ilk yolu ona göre değiştir.
+
+BOY VE KİLO OYUNDA NASIL TEMSİL EDİLİYOR?
+Oyunun doğal düzenleyicisi boyu 155–210 cm aralığında saklıyor. Sayısal kg alanı
+bulunmuyor; bunun yerine BUILD A–H arasında sekiz vücut tipi kullanılıyor.
+Bu tiplerin A'dan H'ye doğru genişlediği, aynı boy ve aynı animasyon karesindeki
+sekiz doğal düzenleyici önizlemesiyle doğrulandı.
+
+439 oyuncunun yayımlanmış boyu eşleştirildi. 418 boy değeri değişti; zaten uygun
+21 değer korundu. Fraser Barnsley'nin boyu doğrulanamadığı için mevcut değer korundu.
+
+431 oyuncunun kilosu kaynaklandırıldı (408 resmî Premier League, 23 ESPN).
+Bu boy/kilo çiftleri, oyunun sekiz vücut tipine yaklaşık uyarlandı. 327 vücut tipi
+değişti; 104 seçim zaten uygundu. Kilo, oyuna sayısal kg olarak eklenmiş değildir.
+Gerçek kaynak değeri ve oyundaki vücut tipi CSV/JSON raporunda ayrı gösterilir.
+
+UYGULANAN YAKLAŞIK EŞLEME
+Kütle/boy oranı = kg / (metre cinsinden boy)^2.
+En yakın merkez seçilir: A=20, B=21, C=22, D=23, E=24, F=25, G=26, H=27.
+Aralığın dışı A veya H ile sınırlandırılır. Bu, oyun görseli için kullanılan
+açık bir uyarlama kuralıdır; oyunun kendi kg formülü veya sağlık değerlendirmesi değildir.
+Boy tam cm olarak uygulanır. Kaynak kilo, kaydedilmiş ölçüm bilgisidir;
+oyuncunun güncel tartım sonucu olarak garanti edilmez.
+
+DOĞRULANAMAYAN KİLOLAR — MEVCUT VÜCUT TİPLERİ KORUNDU
+Sean Steur; Charlie Hughes; Jens Hjertø-Dahl; Konstantinos Tzolakis;
+Kaine Kesler-Hayden; Fraser Barnsley; Jules Ahoka; Charalampos Kostoulas;
+Malick Yalcouyé.
+
+Bazı profiller kilo yayımlamıyor. Charlie Hughes ve Jules Ahoka için ESPN doğum
+tarihleri diğer kimlik kaynaklarıyla uyuşmadığından bu kayıtlar kullanılmadı.
+Quinten Timber ile ikizi Jurriën Timber ayrı kimlikler olarak doğrulandı;
+aynı doğum tarihi ve soyadı tek başına eşleştirme için kullanılmadı.
+
+KAYNAK VE ÖNCELİK
+Boy: Transfermarkt ayrıntılı 2026/27 kadro sayfaları ve bireysel profiller.
+Kilo: resmî Premier League bireysel profil verisi; eksikse kimliği doğrulanmış ESPN.
+ESPN'nin lb değerleri 1 lb = 0.45359237 kg ile çevrildi.
+Kaynaklar çeliştiğinde boy için Transfermarkt, kilo için Premier League önceliklidir.
+Kaynak adresleri, sağlayıcı değerleri ve içerik SHA-256'ları JSON denetimindedir.
+
+Ek kulüp profillerini inceleme istekleri ağ geçidinde 403 ile engellendi.
+Gerekli kulüp alan adları bulut ortamının ağ taslağına kaydedildi. Taslak kaydetmek
+çalışan ortama uygulama veya yayınlama anlamına gelmez. Bu ek kaynakların
+incelenebilmesi için ortam ayarlarından taslağı kaydedip ortamı yayımlamak gerekir.
+Dokuz eksik kilo değeri için mevcut vücut tipleri korundu.
+
+KORUNAN VERİLER
+v0.9.3'ün tüm ten seçimleri ve Leeds United adı, önceki bayrak/doku düzeltmeleri,
+40 forma, 440 oyuncunun isim/numara/mevki/puanları ve boy/vücut tipi dışındaki
+yüz, saç, yaş, ayakkabı ve diğer görünüm alanları bit düzeyinde korundu.
+
+TEKNİK DOĞRULAMA
+- v0.9.3'e göre yalnız SELECT.BIN içindeki boy/vücut tipi bitleri değişti.
+- Diğer 244 ISO dosyası ve bütün ses dosyaları aynı kaldı.
+- Boy: 12 baytlık oyuncu kaydının ilk 32 bitinde 20–25. bitler; cm = değer + 148.
+- Vücut tipi: kaydın 4. baytındaki 2–4. bitler. Ten renginin alt iki biti aynıdır.
+- 5 ham CD sektörünün EDC/ECC değerleri yeniden hesaplanıp doğrulandı.
+- BIN boyutu ve ISO dosya yerleşimi korundu.
+- PCSX-ReARMed/HLE BIOS/yazılım GPU ile yeni CUE baştan açıldı.
+  20 kulübün 440 tam oyuncu özellik kaydı seçim ekranındaki RAM'de doğrulandı.
+  Her kulüpte iç saha/deplasman fotoğrafı ve maç başlangıcı alındı.
+  40 forma doku/paleti ve v0.9.3'teki yüz/saç atlası karşılaştırmaları geçti.
+- Kurucu Linux'ta beş kaynak sürümden diske tam kurulumla sınandı.
+  Çıktı BIN/CUE ve 11 ses dosyasının SHA-256'ları aynı doğrulanmış sonucu verdi.
+  Dolu klasör, bozuk yama ve eksik ses dosyası yazmadan önce reddedildi.
+- Windows .cmd, klasör penceresi, ePSXe ve gerçek PS1 burada test edilmedi.
+
+PAKETTEKİ KANITLAR
+OYUNCU_BOY_KILO.csv: Excel ile açılabilir 440 oyuncu tablosu.
+OYUNCU_BOY_KILO_DENETIMI.json: kaynaklar, önceki/yeni değerler ve özellik kayıtları.
+BOY_KILO_ONCE_SONRA.png: aynı takımın v0.9.3/v0.9.4 karşılaştırması.
+20-clubs-measurements-emulator.png: 20 kulübün iki formayla takım fotoğrafları.
+native-builds-same-pose.png: sekiz doğal vücut tipi, aynı 175 cm boy ve kare.
+binary-validation.json, source-validation.json, emulator-validation.json,
+installer-validation.json, native-format-validation.json: teknik test sonuçları.
+
+YENİ TRACK 01 SHA-256
+1fc70cd075a00da1030a06143c4efa246d9df713c0e4467400666280aafe9504

@@ -1,0 +1,32 @@
+{
+  "player_rows": 440,
+  "heights_with_source": 439,
+  "weights_with_source": 431,
+  "weight_provider_counts": {
+    "ESPN published profile": 23,
+    "Premier League official profile": 408,
+    "unverified/preserved": 9
+  },
+  "cached_source_content_SHA256_verified": true,
+  "all_applied_values_match_published_source_data": true,
+  "birth_date_conflicts_rejected": true,
+  "twins_not_joined_by_birth_date_and_surname": true,
+  "native_body_mapping_is_documented_approximation_not_numeric_kg": true,
+  "unverified_weights_preserved": [
+    "Sean Steur",
+    "Charlie Hughes",
+    "Jens Hjertø-Dahl",
+    "Konstantinos Tzolakis",
+    "Kaine Kesler-Hayden",
+    "Fraser Barnsley",
+    "Jules Ahoka",
+    "Charalampos Kostoulas",
+    "Malick Yalcouyé"
+  ],
+  "unverified_height_preserved": [
+    "Fraser Barnsley"
+  ],
+  "height_priority": "Transfermarkt, then official Premier League if missing",
+  "weight_priority": "Official Premier League, then identity-checked ESPN; ESPN lb converted to kg",
+  "other_club_source_requests": "Blocked by network gateway (403 tunnel); exact hosts saved to environment configuration draft"
+}

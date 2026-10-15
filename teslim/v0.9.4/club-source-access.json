@@ -1,0 +1,37 @@
+[
+  {
+    "key": "club-tzolakis",
+    "url": "https://www.olympiacos.org/en/player/konstantinos-tzolakis/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "club-kesler",
+    "url": "https://www.ccfc.co.uk/teams/first-team/kaine-kesler-hayden/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "club-steur",
+    "url": "https://www.ajax.nl/teams/ajax-1/sean-steur/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "club-hjerto-dahl",
+    "url": "https://www.til.no/lag/jens-hjerto-dahl",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "club-hughes",
+    "url": "https://www.wearehullcity.co.uk/players/first-team/charlie-hughes",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "club-ahoka",
+    "url": "https://www.safc.com/players/men/jules-ahoka",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "key": "club-yalcouye",
+    "url": "https://www.brightonandhovealbion.com/pages/en/player-detail/2/135525",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

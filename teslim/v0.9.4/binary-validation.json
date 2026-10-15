@@ -1,0 +1,25 @@
+{
+  "source_sha256": "c7c4186c609d21181c9586ba9cd18b27d6a855e44a191b3aefa895a80d20b7b6",
+  "target_sha256": "1fc70cd075a00da1030a06143c4efa246d9df713c0e4467400666280aafe9504",
+  "player_records_verified": 440,
+  "height_sources_verified": 439,
+  "weight_sources_verified": 431,
+  "height_records_changed": 418,
+  "build_records_changed": 327,
+  "only_native_height_and_build_bits_changed": true,
+  "all_v093_skin_choices_and_Leeds_name_preserved": true,
+  "all_names_numbers_positions_ratings_face_hair_age_boots_and_other_attributes_preserved": true,
+  "all_40_kits_flags_and_graphics_code_unchanged": true,
+  "nonclub_players_untouched": true,
+  "unverified_measurements_preserved": true,
+  "unchanged_iso_files_count": 244,
+  "changed_sectors": [
+    937,
+    938,
+    939,
+    940,
+    941
+  ],
+  "all_changed_sector_EDC_ECC_verified": true,
+  "BIN_size_and_ISO_layout_unchanged": true
+}

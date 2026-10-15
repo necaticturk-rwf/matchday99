@@ -1,0 +1,40 @@
+{
+  "installations": [
+    {
+      "source_version": "v0.9.3",
+      "complete_on_disk_BIN_CUE_and_11_audio_SHA256_verified": true,
+      "source_files_preserved": true,
+      "auto_discovery_and_idempotent_rerun_tested": true
+    },
+    {
+      "source_version": "v0.9.2",
+      "complete_on_disk_BIN_CUE_and_11_audio_SHA256_verified": true,
+      "source_files_preserved": true,
+      "auto_discovery_and_idempotent_rerun_tested": false
+    },
+    {
+      "source_version": "v0.9.1",
+      "complete_on_disk_BIN_CUE_and_11_audio_SHA256_verified": true,
+      "source_files_preserved": true,
+      "auto_discovery_and_idempotent_rerun_tested": false
+    },
+    {
+      "source_version": "v0.8",
+      "complete_on_disk_BIN_CUE_and_11_audio_SHA256_verified": true,
+      "source_files_preserved": true,
+      "auto_discovery_and_idempotent_rerun_tested": false
+    },
+    {
+      "source_version": "v0.9",
+      "complete_on_disk_BIN_CUE_and_11_audio_SHA256_verified": true,
+      "source_files_preserved": true,
+      "auto_discovery_and_idempotent_rerun_tested": false
+    }
+  ],
+  "nonempty_output_rejected_without_overwrite": true,
+  "missing_audio_rejected_before_writing": true,
+  "corrupt_patch_rejected_before_writing": true,
+  "Windows_CMD_launcher_executed": false,
+  "Windows_desktop_API_and_folder_dialog_executed": false,
+  "auto_mode_executed_on_Linux": true
+}

@@ -1,0 +1,51 @@
+{
+  "height": "packed record word0 bits 20..25, cm=value+148",
+  "editor_height_min_cm": 155,
+  "editor_height_max_cm": 210,
+  "build": "packed record byte4 bits 2..4, values 0..7 = A..H",
+  "numeric_weight_kg_field": false,
+  "body_type_native_UI_and_packed_bits_verified": true,
+  "height_plus_minus_one_cm_native_UI_verified": true,
+  "build_A_to_H_silhouettes_increase_monotonically": [
+    {
+      "build": "A",
+      "value": 0,
+      "silhouette_pixels_same_175cm_and_animation": 2087
+    },
+    {
+      "build": "B",
+      "value": 1,
+      "silhouette_pixels_same_175cm_and_animation": 2195
+    },
+    {
+      "build": "C",
+      "value": 2,
+      "silhouette_pixels_same_175cm_and_animation": 2258
+    },
+    {
+      "build": "D",
+      "value": 3,
+      "silhouette_pixels_same_175cm_and_animation": 2315
+    },
+    {
+      "build": "E",
+      "value": 4,
+      "silhouette_pixels_same_175cm_and_animation": 2382
+    },
+    {
+      "build": "F",
+      "value": 5,
+      "silhouette_pixels_same_175cm_and_animation": 2446
+    },
+    {
+      "build": "G",
+      "value": 6,
+      "silhouette_pixels_same_175cm_and_animation": 2500
+    },
+    {
+      "build": "H",
+      "value": 7,
+      "silhouette_pixels_same_175cm_and_animation": 2557
+    }
+  ]
+}
