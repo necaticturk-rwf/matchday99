@@ -1,0 +1,65 @@
+﻿Kulup;Futbolcu;Oyun adi;Eski sira;Yeni sira;Eski mevki;Yeni mevki;Kaynak mevkisi;Ilk 11 gorevi;Kadro durumu;attack;defense;strength;stamina;speed;acceleration;pass_accuracy;kick_power;kick_accuracy;jump;heading;technique;dribbling;swerve;aggression
+Crystal Palace;Dean Henderson;Henderson;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;6 -> 6;4 -> 4;4 -> 4;3 -> 6;5 -> 6;2 -> 2;6 -> 8;2 -> 2;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Crystal Palace;Remi Matthews;Matthews;21;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 5;6 -> 6;7 -> 7;6 -> 6;6 -> 6;3 -> 5;4 -> 6;3 -> 3;6 -> 6;2 -> 2;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Tottenham Hotspur;Antonín Kinský;Kinsky;21;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 7;7 -> 7;6 -> 6;5 -> 5;5 -> 5;3 -> 5;5 -> 6;2 -> 2;5 -> 7;3 -> 3;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Tottenham Hotspur;Sandro Tonali;Tonali;12;7;5;3;Defensive Midfield;DH;starting XI;6 -> 6;6 -> 7;5 -> 6;9 -> 9;6 -> 6;5 -> 5;9 -> 9;6 -> 6;7 -> 7;5 -> 5;5 -> 5;9 -> 9;7 -> 7;7 -> 7;6 -> 6
+Tottenham Hotspur;Martin Dúbravka;Dubravka;22;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 7;6 -> 6;5 -> 5;4 -> 4;5 -> 5;3 -> 5;6 -> 6;2 -> 2;6 -> 7;3 -> 3;4 -> 5;2 -> 3;2 -> 2;3 -> 3
+Manchester City;Gianluigi Donnarumma;Donnarumma;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;8 -> 9;7 -> 7;6 -> 6;5 -> 5;5 -> 5;3 -> 6;5 -> 6;2 -> 2;9 -> 9;2 -> 2;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Manchester City;Gerónimo Rulli;Rulli;2;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 8;7 -> 7;6 -> 6;6 -> 6;6 -> 6;2 -> 6;5 -> 6;2 -> 2;5 -> 8;4 -> 4;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Manchester City;Nico O'Reilly;O'Reilly;13;18;5;2;Left-Back;WB;reserve;6 -> 6;6 -> 7;5 -> 6;8 -> 8;6 -> 6;6 -> 6;9 -> 9;5 -> 5;6 -> 5;5 -> 5;5 -> 5;8 -> 8;7 -> 7;7 -> 7;6 -> 6
+Fulham;Bernd Leno;Leno;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;6 -> 6;5 -> 5;5 -> 5;3 -> 6;5 -> 6;2 -> 2;6 -> 8;2 -> 2;3 -> 5;2 -> 3;3 -> 3;3 -> 3
+Fulham;Shea Charles;Charles;17;7;5;3;Defensive Midfield;DH;starting XI;7 -> 6;6 -> 7;7 -> 7;8 -> 8;6 -> 6;7 -> 7;9 -> 9;6 -> 6;7 -> 7;4 -> 4;5 -> 5;8 -> 8;8 -> 8;7 -> 7;6 -> 6
+Fulham;Benjamin Lecomte;Lecomte;21;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 7;6 -> 6;6 -> 6;5 -> 5;4 -> 4;3 -> 5;5 -> 6;2 -> 2;6 -> 7;3 -> 3;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Manchester United;Senne Lammens;Lammens;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 7;6 -> 6;6 -> 6;5 -> 5;5 -> 5;2 -> 6;5 -> 6;2 -> 2;6 -> 7;4 -> 4;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Manchester United;Karl Darlow;Darlow;12;12;0;0;Goalkeeper;GK;reserve goalkeeper;3 -> 3;4 -> 6;7 -> 7;6 -> 6;5 -> 5;5 -> 5;3 -> 5;5 -> 6;3 -> 3;6 -> 6;3 -> 3;3 -> 5;3 -> 3;2 -> 2;3 -> 3
+Manchester United;Andrey Santos;Santos;16;19;5;3;Defensive Midfield;DH;reserve;5 -> 5;6 -> 7;6 -> 6;8 -> 8;6 -> 6;7 -> 7;7 -> 7;5 -> 5;6 -> 6;5 -> 5;5 -> 5;8 -> 8;7 -> 7;6 -> 6;7 -> 7
+Liverpool;Alisson;Alisson;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;8 -> 9;7 -> 7;6 -> 6;5 -> 5;4 -> 4;3 -> 8;6 -> 6;2 -> 2;9 -> 9;4 -> 4;4 -> 5;3 -> 3;2 -> 2;4 -> 4
+Liverpool;Giorgi Mamardashvili;Mamardashv;18;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 8;7 -> 7;6 -> 6;5 -> 5;4 -> 4;4 -> 6;5 -> 6;2 -> 2;6 -> 8;4 -> 4;4 -> 5;3 -> 3;2 -> 2;2 -> 3
+Liverpool;Dominik Szoboszlai;Szoboszlai;8;16;3;5;Attacking Midfield;AH;reserve;5 -> 6;7 -> 7;6 -> 6;8 -> 8;6 -> 6;6 -> 6;8 -> 8;6 -> 8;6 -> 7;4 -> 4;5 -> 5;9 -> 9;7 -> 7;7 -> 8;5 -> 5
+Aston Villa;Zion Suzuki;Suzuki;1;1;0;0;Goalkeeper;GK;starting XI;3 -> 3;4 -> 8;6 -> 6;6 -> 6;5 -> 5;6 -> 6;3 -> 5;5 -> 6;2 -> 2;6 -> 8;3 -> 3;4 -> 5;2 -> 3;2 -> 2;4 -> 4
+Aston Villa;Marco Bizot;Bizot;22;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 7;6 -> 6;6 -> 6;4 -> 4;5 -> 5;3 -> 5;5 -> 6;2 -> 2;6 -> 7;3 -> 3;4 -> 5;3 -> 3;2 -> 2;4 -> 4
+Leeds United;James Trafford;Trafford;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;7 -> 7;5 -> 5;5 -> 5;3 -> 6;5 -> 6;2 -> 2;5 -> 8;3 -> 3;4 -> 5;4 -> 4;2 -> 2;4 -> 4
+Leeds United;Michael Zetterer;Zetterer;14;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 7;6 -> 6;7 -> 7;4 -> 4;6 -> 6;2 -> 5;5 -> 6;2 -> 2;6 -> 7;4 -> 4;3 -> 5;2 -> 3;3 -> 3;3 -> 3
+Leeds United;Alex Cairns;Cairns;17;22;0;0;Goalkeeper;GK;reserve;2 -> 2;4 -> 5;6 -> 6;6 -> 6;4 -> 4;6 -> 6;3 -> 5;5 -> 6;2 -> 2;6 -> 6;3 -> 3;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Arsenal;David Raya;Raya;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 9;6 -> 6;6 -> 6;4 -> 4;5 -> 5;3 -> 8;4 -> 6;2 -> 2;6 -> 8;2 -> 2;4 -> 5;3 -> 3;2 -> 2;4 -> 4
+Arsenal;Kepa Arrizabalaga;Kepa;2;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 8;5 -> 6;6 -> 6;5 -> 5;6 -> 6;3 -> 6;5 -> 6;2 -> 2;7 -> 8;3 -> 3;4 -> 5;2 -> 3;2 -> 2;2 -> 3
+Newcastle United;Nick Pope;Pope;1;1;0;0;Goalkeeper;GK;starting XI;3 -> 3;4 -> 8;6 -> 6;6 -> 6;6 -> 6;5 -> 5;4 -> 5;5 -> 6;2 -> 2;5 -> 8;3 -> 3;5 -> 5;3 -> 3;2 -> 2;3 -> 3
+Newcastle United;Joe Willock;Willock;19;9;3;5;Central Midfield;OH;starting XI;5 -> 6;7 -> 7;6 -> 6;8 -> 8;7 -> 7;6 -> 6;9 -> 9;7 -> 7;6 -> 6;5 -> 5;4 -> 4;8 -> 8;7 -> 7;7 -> 7;6 -> 6
+Newcastle United;Lukas Hornicek;Hornicek;17;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 6;7 -> 7;6 -> 6;6 -> 6;5 -> 5;3 -> 5;5 -> 6;3 -> 3;6 -> 6;3 -> 3;4 -> 5;2 -> 3;3 -> 3;4 -> 4
+Newcastle United;Aladji Bamba;Bamba;8;16;5;3;Defensive Midfield;DH;reserve;8 -> 6;4 -> 7;5 -> 6;6 -> 7;7 -> 7;6 -> 6;8 -> 8;7 -> 7;7 -> 7;5 -> 5;5 -> 5;8 -> 8;9 -> 9;7 -> 7;7 -> 7
+Newcastle United;Matias Fernandez-Pardo;Fernandez;16;21;7;6;Centre-Forward;CF;reserve;8 -> 8;3 -> 3;5 -> 6;8 -> 8;9 -> 9;9 -> 9;6 -> 6;7 -> 7;7 -> 7;5 -> 6;4 -> 5;7 -> 7;9 -> 9;6 -> 6;6 -> 6
+Hull City;Jack Butland;Butland;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;6 -> 6;5 -> 5;5 -> 5;3 -> 5;4 -> 6;2 -> 2;6 -> 8;3 -> 3;3 -> 5;3 -> 3;2 -> 2;3 -> 3
+Hull City;Regan Slater;Slater;21;7;5;3;Defensive Midfield;DH;starting XI;6 -> 6;6 -> 7;7 -> 7;8 -> 8;6 -> 6;6 -> 6;8 -> 8;6 -> 6;6 -> 6;5 -> 5;5 -> 5;8 -> 8;7 -> 7;6 -> 6;6 -> 6
+Hull City;Konstantinos Tzolakis;Tzolakis;17;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;3 -> 8;6 -> 6;7 -> 7;6 -> 6;6 -> 6;3 -> 5;4 -> 6;3 -> 3;5 -> 8;4 -> 4;3 -> 5;3 -> 3;3 -> 3;2 -> 3
+Hull City;Dillon Phillips;Phillips;12;22;0;0;Goalkeeper;GK;reserve;3 -> 3;3 -> 6;6 -> 6;6 -> 6;4 -> 4;4 -> 4;4 -> 5;5 -> 6;2 -> 2;6 -> 6;3 -> 3;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Brentford;Caoimhín Kelleher;Kelleher;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;6 -> 6;5 -> 5;6 -> 6;4 -> 7;5 -> 6;2 -> 2;6 -> 8;3 -> 3;3 -> 5;3 -> 3;2 -> 2;3 -> 3
+Brentford;El Hadji Malick Diouf;Diouf;21;4;7;2;Left-Back;LB;starting XI;8 -> 6;3 -> 7;5 -> 6;7 -> 8;9 -> 9;9 -> 9;6 -> 6;6 -> 6;7 -> 5;5 -> 5;4 -> 5;6 -> 6;8 -> 8;7 -> 7;7 -> 7
+Brentford;Vitaly Janelt;Janelt;22;7;5;3;Defensive Midfield;DH;starting XI;6 -> 6;6 -> 7;5 -> 6;7 -> 7;6 -> 6;6 -> 6;8 -> 8;5 -> 5;6 -> 6;5 -> 5;4 -> 5;9 -> 9;7 -> 7;7 -> 7;7 -> 7
+Brentford;Hákon Valdimarsson;Valdimarss;11;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;5 -> 6;6 -> 6;6 -> 6;5 -> 5;5 -> 5;3 -> 5;4 -> 6;2 -> 2;6 -> 6;4 -> 4;4 -> 5;3 -> 3;3 -> 3;3 -> 3
+Coventry City;Carl Rushworth;Rushworth;16;1;0;0;Goalkeeper;GK;starting XI;3 -> 3;4 -> 7;6 -> 6;5 -> 5;5 -> 5;4 -> 4;3 -> 5;5 -> 6;2 -> 2;5 -> 7;3 -> 3;4 -> 5;4 -> 4;2 -> 2;3 -> 3
+Coventry City;Ben Wilson;Wilson;12;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;5 -> 6;7 -> 7;7 -> 7;5 -> 5;4 -> 4;2 -> 5;5 -> 6;2 -> 2;6 -> 6;3 -> 3;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Coventry City;Matt Grimes;Grimes;5;14;5;3;Defensive Midfield;DH;reserve;6 -> 6;7 -> 7;7 -> 7;7 -> 7;7 -> 7;7 -> 7;8 -> 8;6 -> 6;6 -> 6;5 -> 5;5 -> 5;8 -> 8;7 -> 7;7 -> 7;7 -> 7
+Everton;Jordan Pickford;Pickford;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;7 -> 7;5 -> 5;5 -> 5;2 -> 7;6 -> 6;2 -> 2;6 -> 8;4 -> 4;4 -> 5;4 -> 4;2 -> 2;3 -> 3
+Everton;Mark Travers;Travers;9;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 7;6 -> 6;6 -> 6;5 -> 5;4 -> 4;3 -> 5;5 -> 6;2 -> 2;7 -> 7;3 -> 3;4 -> 5;3 -> 3;2 -> 2;2 -> 3
+Everton;Tom King;King;18;21;0;0;Goalkeeper;GK;reserve;2 -> 2;4 -> 5;7 -> 7;6 -> 6;5 -> 5;4 -> 4;3 -> 5;5 -> 6;2 -> 2;6 -> 6;3 -> 3;3 -> 5;2 -> 3;2 -> 2;3 -> 3
+Everton;Fraser Barnsley;Barnsley;22;22;0;0;Goalkeeper;GK;reserve;2 -> 2;5 -> 5;7 -> 7;6 -> 6;5 -> 5;4 -> 4;3 -> 5;5 -> 6;2 -> 2;6 -> 6;3 -> 3;3 -> 5;3 -> 3;2 -> 2;4 -> 4
+AFC Bournemouth;Djordje Petrović;Petrovic;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;6 -> 6;5 -> 5;4 -> 4;4 -> 6;5 -> 6;3 -> 3;6 -> 8;2 -> 2;4 -> 5;2 -> 3;2 -> 2;3 -> 3
+AFC Bournemouth;Michele Di Gregorio;DiGregorio;19;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;5 -> 8;6 -> 6;6 -> 6;5 -> 5;5 -> 5;3 -> 7;5 -> 6;2 -> 2;6 -> 8;3 -> 3;4 -> 5;4 -> 4;2 -> 2;4 -> 4
+AFC Bournemouth;Fraser Forster;Forster;16;22;0;0;Goalkeeper;GK;reserve;2 -> 2;4 -> 7;6 -> 6;6 -> 6;5 -> 5;6 -> 6;2 -> 5;6 -> 6;2 -> 2;6 -> 7;3 -> 3;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Sunderland;Robin Roefs;Roefs;18;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;3 -> 8;7 -> 7;7 -> 7;6 -> 6;5 -> 5;3 -> 5;4 -> 6;3 -> 3;6 -> 8;2 -> 2;4 -> 5;2 -> 3;2 -> 2;3 -> 3
+Sunderland;Jules Ahoka;Ahoka;21;6;1;3;Defensive Midfield;DH;starting XI;3 -> 4;9 -> 9;8 -> 8;7 -> 7;5 -> 5;5 -> 5;5 -> 6;5 -> 5;3 -> 3;8 -> 8;9 -> 8;5 -> 6;4 -> 5;3 -> 3;6 -> 6
+Sunderland;Simon Moore;Moore;17;12;0;0;Goalkeeper;GK;reserve goalkeeper;3 -> 3;4 -> 6;7 -> 7;6 -> 6;5 -> 5;5 -> 5;3 -> 5;5 -> 6;2 -> 2;5 -> 6;2 -> 2;4 -> 5;3 -> 3;3 -> 3;3 -> 3
+Sunderland;Enzo Le Fée;Le Fee;20;22;3;5;Central Midfield;AH;reserve;5 -> 6;8 -> 7;7 -> 7;8 -> 8;6 -> 6;6 -> 6;8 -> 8;7 -> 7;5 -> 5;5 -> 5;6 -> 6;7 -> 7;6 -> 7;5 -> 5;6 -> 6
+Chelsea;Emiliano Martínez;Martinez;1;1;0;0;Goalkeeper;GK;starting XI;3 -> 3;3 -> 9;6 -> 6;6 -> 6;5 -> 5;5 -> 5;4 -> 6;6 -> 6;2 -> 2;6 -> 8;3 -> 3;3 -> 5;2 -> 3;3 -> 3;4 -> 4
+Chelsea;Roméo Lavia;Lavia;22;6;5;3;Defensive Midfield;DH;starting XI;6 -> 6;7 -> 7;6 -> 6;9 -> 9;6 -> 6;7 -> 7;8 -> 8;6 -> 6;6 -> 6;4 -> 4;6 -> 6;8 -> 8;6 -> 6;7 -> 7;6 -> 6
+Chelsea;Teddy Sharman-Lowe;Sharman-Lo;20;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 6;5 -> 6;5 -> 5;6 -> 6;5 -> 5;3 -> 5;4 -> 6;2 -> 2;6 -> 6;3 -> 3;4 -> 5;4 -> 4;2 -> 2;4 -> 4
+Brighton;Bart Verbruggen;Verbruggen;1;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;5 -> 5;5 -> 5;5 -> 5;2 -> 7;5 -> 6;2 -> 2;7 -> 8;3 -> 3;4 -> 5;3 -> 3;2 -> 2;3 -> 3
+Brighton;Jack Hinshelwood;Hinshelwoo;6;6;5;3;Defensive Midfield;DH;starting XI;6 -> 6;6 -> 7;6 -> 6;7 -> 7;6 -> 6;6 -> 6;8 -> 8;5 -> 5;6 -> 6;5 -> 5;5 -> 5;9 -> 9;7 -> 7;8 -> 8;5 -> 5
+Brighton;Jason Steele;Steele;16;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 7;6 -> 6;5 -> 5;5 -> 5;5 -> 5;3 -> 5;4 -> 6;2 -> 2;6 -> 7;3 -> 3;4 -> 5;3 -> 3;2 -> 2;2 -> 3
+Ipswich Town;Alex Palmer;Palmer;1;1;0;0;Goalkeeper;GK;starting XI;9 -> 3;5 -> 7;6 -> 6;6 -> 6;5 -> 5;6 -> 6;8 -> 5;5 -> 6;9 -> 4;6 -> 7;3 -> 3;9 -> 7;9 -> 4;2 -> 2;3 -> 3
+Ipswich Town;Florentino;Florentino;12;7;0;3;Defensive Midfield;DH;starting XI;2 -> 4;3 -> 8;6 -> 7;6 -> 8;5 -> 6;5 -> 6;3 -> 7;5 -> 6;3 -> 4;7 -> 6;4 -> 5;3 -> 7;3 -> 6;2 -> 3;4 -> 6
+Ipswich Town;David Button;Button;20;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 6;6 -> 6;6 -> 6;5 -> 5;6 -> 6;3 -> 5;5 -> 6;2 -> 2;6 -> 6;2 -> 2;4 -> 5;3 -> 3;2 -> 2;4 -> 4
+Ipswich Town;Sindre Walle Egeli;Egeli;8;15;5;7;Right Winger;W;reserve;8 -> 8;3 -> 3;5 -> 5;7 -> 7;6 -> 7;8 -> 8;8 -> 8;6 -> 6;7 -> 7;5 -> 5;5 -> 5;8 -> 8;8 -> 8;7 -> 7;7 -> 7
+Ipswich Town;Emersonn;Emersonn;14;18;7;6;Centre-Forward;CF;reserve;8 -> 8;2 -> 2;5 -> 6;8 -> 8;9 -> 9;9 -> 9;6 -> 6;6 -> 6;7 -> 7;5 -> 6;4 -> 5;7 -> 7;8 -> 8;6 -> 6;7 -> 7
+Nottingham Forest;Matz Sels;Sels;20;1;0;0;Goalkeeper;GK;starting XI;2 -> 2;4 -> 8;6 -> 6;5 -> 5;6 -> 6;6 -> 6;3 -> 5;4 -> 6;2 -> 2;6 -> 8;2 -> 2;4 -> 5;3 -> 3;2 -> 2;2 -> 3
+Nottingham Forest;John Victor;Victor;11;12;0;0;Goalkeeper;GK;reserve goalkeeper;2 -> 2;4 -> 7;6 -> 6;5 -> 5;4 -> 4;5 -> 5;3 -> 5;5 -> 6;2 -> 2;6 -> 7;4 -> 4;3 -> 5;4 -> 4;2 -> 2;4 -> 4

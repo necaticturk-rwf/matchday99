@@ -1,11 +1,11 @@
 # MATCHDAY 99 — 20 Premier League kulübünün kadroları
 
-[**Excel dosyasını indir (.xlsx)**](https://github.com/necaticturk-rwf/matchday99/raw/refs/heads/matchday99-v09-downloads/teslim/kadrolar/MATCHDAY99_v09_4_Premier_League_20_Takim.xlsx)
+[**Güncel Excel dosyasını indir (.xlsx)**](https://github.com/necaticturk-rwf/matchday99/raw/refs/heads/matchday99-v09-downloads/teslim/kadrolar/MATCHDAY99_v09_5_Premier_League_20_Takim.xlsx)
 
-v0.9.4 oyunundaki **20 kulüp, her kulüpte 22 oyuncu, toplam 440 oyuncu**.
+v0.9.5 oyunundaki **20 kulüp, her kulüpte 22 oyuncu, toplam 440 oyuncu**.
 
-Dosyada bir özet, filtrelenebilir toplu oyuncu listesi ve her kulüp için ayrı sayfa bulunur. Sütunlar: takım, kadro sırası, oyundaki ad ve oyuncunun tam adı. Kadro sırası forma numarası değildir.
+Özet, filtrelenebilir toplu liste ve her kulüp için ayrı sayfa bulunur. Takım, kadro sırası, oyun adı, tam ad, oyuncunun asıl mevkisi, ilk 11 görevi, ilk 11/yedek durumu, boy/kilo ve 15 oyun yeteneği yer alır. Kadro sırası forma numarası değildir. Kaynak kilo, oyunda sayısal bir kg alanı değildir.
 
-Oyundaki kısaltılmış isimler doğrulanmış v0.9.4 BIN dosyasından çıkarılmıştır; tam adlar mevcut oyuncu kimlik eşleştirmesinden alınmıştır. Yalnızca istenen 20 Premier League kulübü dahil edilmiştir. Oyun dosyaları değiştirilmemiştir.
+Mevki ve yetenekler düzeltilmiş v0.9.5 BIN dosyasıyla doğrulanmıştır. Tam adlar mevcut oyuncu kimliği eşleştirmesinden alınır. Yetenekler oyunun 2–9 ölçeğinde editöryal değerlerdir; resmî kaynak puanları değildir. Yalnızca istenen 20 Premier League kulübü dahildir.
 
-[Dışa aktarma doğrulaması](excel-validation.json)
+[Excel doğrulaması](excel-validation-v095.json) · [v0.9.5 oyun yaması](../v0.9.5/README.md) · [Önceki v0.9.4 listesi](MATCHDAY99_v09_4_Premier_League_20_Takim.xlsx)

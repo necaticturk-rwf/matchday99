@@ -1,0 +1,4531 @@
+{
+  "version": "v0.9.5",
+  "source_sha256": "1fc70cd075a00da1030a06143c4efa246d9df713c0e4467400666280aafe9504",
+  "target_sha256": "3ee7a4b881aad442d239a67a0612bad0df63f5435f82a4732e02378d7604f5ab",
+  "changed_files": [
+    "/SELECT.BIN"
+  ],
+  "sectors": [
+    937,
+    938,
+    939,
+    940,
+    941,
+    948,
+    949,
+    950,
+    951,
+    952
+  ],
+  "role_records_changed": 19,
+  "ability_records_changed": 62,
+  "roster_order_changed": 388,
+  "goalkeepers": 45,
+  "clubs": [
+    {
+      "slot": 1,
+      "club": "Crystal Palace",
+      "order": [
+        0,
+        3,
+        19,
+        1,
+        11,
+        6,
+        14,
+        9,
+        18,
+        12,
+        16,
+        20,
+        2,
+        4,
+        5,
+        7,
+        8,
+        10,
+        13,
+        15,
+        17,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Henderson",
+          "full_name": "Dean Henderson",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "Disasi",
+          "full_name": "Axel Disasi",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 19,
+          "name": "Richards",
+          "full_name": "Chris Richards",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 1,
+          "name": "Mitchell",
+          "full_name": "Tyrick Mitchell",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 11,
+          "name": "Tomiyasu",
+          "full_name": "Takehiro Tomiyasu",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 6,
+          "name": "Lerma",
+          "full_name": "Jefferson Lerma",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 14,
+          "name": "Wharton",
+          "full_name": "Adam Wharton",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 9,
+          "name": "McNeil",
+          "full_name": "Dwight McNeil",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 18,
+          "name": "Osorio",
+          "full_name": "Darío Osorio",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 12,
+          "name": "Kamada",
+          "full_name": "Daichi Kamada",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 10,
+          "old_index": 16,
+          "name": "S.Larsen",
+          "full_name": "Jørgen Strand Larsen",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 20,
+          "name": "Matthews",
+          "full_name": "Remi Matthews",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 2,
+          "name": "Riad",
+          "full_name": "Chadi Riad",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 4,
+          "name": "Canvot",
+          "full_name": "Jaydee Canvot",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 5,
+          "name": "Sarr",
+          "full_name": "Ismaïla Sarr",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 15,
+          "old_index": 7,
+          "name": "Nketiah",
+          "full_name": "Eddie Nketiah",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 16,
+          "old_index": 8,
+          "name": "Pino",
+          "full_name": "Yéremy Pino",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 17,
+          "old_index": 10,
+          "name": "Mateta",
+          "full_name": "Jean-Philippe Mateta",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 18,
+          "old_index": 13,
+          "name": "Hughes",
+          "full_name": "Will Hughes",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 15,
+          "name": "Ahanor",
+          "full_name": "Honest Ahanor",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 20,
+          "old_index": 17,
+          "name": "Timber",
+          "full_name": "Quinten Timber",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Chilwell",
+          "full_name": "Ben Chilwell",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "club": "Tottenham Hotspur",
+      "order": [
+        20,
+        1,
+        3,
+        8,
+        18,
+        5,
+        11,
+        6,
+        13,
+        14,
+        17,
+        21,
+        0,
+        2,
+        4,
+        7,
+        9,
+        10,
+        12,
+        15,
+        16,
+        19
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "DH",
+        "OH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 20,
+          "name": "Kinsky",
+          "full_name": "Antonín Kinský",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 1,
+          "name": "Adarabioyo",
+          "full_name": "Tosin Adarabioyo",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 3,
+          "name": "van Hecke",
+          "full_name": "Jan Paul van Hecke",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 8,
+          "name": "Udogie",
+          "full_name": "Destiny Udogie",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 18,
+          "name": "Porro",
+          "full_name": "Pedro Porro",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 5,
+          "name": "Gallagher",
+          "full_name": "Conor Gallagher",
+          "preferred_role": "AH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 11,
+          "name": "Tonali",
+          "full_name": "Sandro Tonali",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 6,
+          "name": "Maddison",
+          "full_name": "James Maddison",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 13,
+          "name": "Fernandes",
+          "full_name": "Mateus Fernandes",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 14,
+          "name": "Solanke",
+          "full_name": "Dominic Solanke",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 17,
+          "name": "Marmoush",
+          "full_name": "Omar Marmoush",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 21,
+          "name": "Dubravka",
+          "full_name": "Martin Dúbravka",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 0,
+          "name": "Robertson",
+          "full_name": "Andrew Robertson",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 2,
+          "name": "Senesi",
+          "full_name": "Marcos Senesi",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 4,
+          "name": "Simons",
+          "full_name": "Xavi Simons",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 15,
+          "old_index": 7,
+          "name": "Tel",
+          "full_name": "Mathys Tel",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 16,
+          "old_index": 9,
+          "name": "Gray",
+          "full_name": "Archie Gray",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 10,
+          "name": "Bergvall",
+          "full_name": "Lucas Bergvall",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 18,
+          "old_index": 12,
+          "name": "Savio",
+          "full_name": "Sávio",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 19,
+          "old_index": 15,
+          "name": "Kudus",
+          "full_name": "Mohammed Kudus",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 20,
+          "old_index": 16,
+          "name": "Kulusevski",
+          "full_name": "Dejan Kulusevski",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 21,
+          "old_index": 19,
+          "name": "Mudryk",
+          "full_name": "Mykhaylo Mudryk",
+          "preferred_role": "W",
+          "formation_role": "W"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "club": "Manchester City",
+      "order": [
+        0,
+        3,
+        5,
+        6,
+        7,
+        9,
+        19,
+        20,
+        15,
+        18,
+        21,
+        1,
+        2,
+        4,
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Donnarumma",
+          "full_name": "Gianluigi Donnarumma",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "Guehi",
+          "full_name": "Marc Guéhi",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 5,
+          "name": "Khusanov",
+          "full_name": "Abdukodir Khusanov",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 6,
+          "name": "Ait-Nouri",
+          "full_name": "Rayan Aït-Nouri",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 7,
+          "name": "Lewis",
+          "full_name": "Rico Lewis",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 9,
+          "name": "Anderson",
+          "full_name": "Elliot Anderson",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 19,
+          "name": "Doku",
+          "full_name": "Jérémy Doku",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 20,
+          "name": "Ndiaye",
+          "full_name": "Iliman Ndiaye",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 15,
+          "name": "Foden",
+          "full_name": "Phil Foden",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 18,
+          "name": "Haaland",
+          "full_name": "Erling Haaland",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 21,
+          "name": "Semenyo",
+          "full_name": "Antoine Semenyo",
+          "preferred_role": "W",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 1,
+          "name": "Rulli",
+          "full_name": "Gerónimo Rulli",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 2,
+          "name": "Dias",
+          "full_name": "Rúben Dias",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 4,
+          "name": "Gvardiol",
+          "full_name": "Josko Gvardiol",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 8,
+          "name": "Reis",
+          "full_name": "Vitor Reis",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 15,
+          "old_index": 10,
+          "name": "Fernandez",
+          "full_name": "Enzo Fernández",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 16,
+          "old_index": 11,
+          "name": "Kovacic",
+          "full_name": "Mateo Kovacic",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 12,
+          "name": "O'Reilly",
+          "full_name": "Nico O'Reilly",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 18,
+          "old_index": 13,
+          "name": "Nunes",
+          "full_name": "Matheus Nunes",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 14,
+          "name": "Bouaddi",
+          "full_name": "Ayyoub Bouaddi",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 20,
+          "old_index": 16,
+          "name": "Cherki",
+          "full_name": "Rayan Cherki",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 21,
+          "old_index": 17,
+          "name": "Echeverri",
+          "full_name": "Claudio Echeverri",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "club": "Fulham",
+      "order": [
+        0,
+        4,
+        19,
+        21,
+        1,
+        5,
+        16,
+        10,
+        11,
+        7,
+        6,
+        20,
+        2,
+        3,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Leno",
+          "full_name": "Bernd Leno",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 4,
+          "name": "Andersen",
+          "full_name": "Joachim Andersen",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 19,
+          "name": "Affengrube",
+          "full_name": "David Affengruber",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 21,
+          "name": "Sessegnon",
+          "full_name": "Ryan Sessegnon",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 1,
+          "name": "Tete",
+          "full_name": "Kenny Tete",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 5,
+          "name": "Reed",
+          "full_name": "Harrison Reed",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 16,
+          "name": "Charles",
+          "full_name": "Shea Charles",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 10,
+          "name": "Kevin",
+          "full_name": "Kevin",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 11,
+          "name": "Bobb",
+          "full_name": "Oscar Bobb",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 7,
+          "name": "Palacios",
+          "full_name": "César Palacios",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 10,
+          "old_index": 6,
+          "name": "Garcia",
+          "full_name": "Gonzalo García",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 20,
+          "name": "Lecomte",
+          "full_name": "Benjamin Lecomte",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 2,
+          "name": "Bassey",
+          "full_name": "Calvin Bassey",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 3,
+          "name": "Cuenca",
+          "full_name": "Jorge Cuenca",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 8,
+          "name": "Muniz",
+          "full_name": "Rodrigo Muniz",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 15,
+          "old_index": 9,
+          "name": "Cairney",
+          "full_name": "Tom Cairney",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 16,
+          "old_index": 12,
+          "name": "Larsson",
+          "full_name": "Hugo Larsson",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 13,
+          "name": "Berge",
+          "full_name": "Sander Berge",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 18,
+          "old_index": 14,
+          "name": "Iwobi",
+          "full_name": "Alex Iwobi",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 19,
+          "old_index": 15,
+          "name": "Kusi-Asare",
+          "full_name": "Jonah Kusi-Asare",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 20,
+          "old_index": 17,
+          "name": "Angel",
+          "full_name": "Manuel Ángel",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 21,
+          "old_index": 18,
+          "name": "Castagne",
+          "full_name": "Timothy Castagne",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "club": "Manchester United",
+      "order": [
+        0,
+        4,
+        5,
+        19,
+        2,
+        18,
+        6,
+        7,
+        9,
+        8,
+        17,
+        11,
+        1,
+        3,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        20,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "OH",
+        "OH",
+        "CF",
+        "LW",
+        "RW"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Lammens",
+          "full_name": "Senne Lammens",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 4,
+          "name": "Maguire",
+          "full_name": "Harry Maguire",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 5,
+          "name": "Martinez",
+          "full_name": "Lisandro Martínez",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 19,
+          "name": "Shaw",
+          "full_name": "Luke Shaw",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 2,
+          "name": "Mazraoui",
+          "full_name": "Noussair Mazraoui",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 18,
+          "name": "Baleba",
+          "full_name": "Carlos Baleba",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 6,
+          "name": "Mount",
+          "full_name": "Mason Mount",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 7,
+          "name": "Fernandes",
+          "full_name": "Bruno Fernandes",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 9,
+          "name": "Cunha",
+          "full_name": "Matheus Cunha",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 9,
+          "old_index": 8,
+          "name": "Rashford",
+          "full_name": "Marcus Rashford",
+          "preferred_role": "W",
+          "formation_role": "LW"
+        },
+        {
+          "new_index": 10,
+          "old_index": 17,
+          "name": "Mbeumo",
+          "full_name": "Bryan Mbeumo",
+          "preferred_role": "W",
+          "formation_role": "RW"
+        },
+        {
+          "new_index": 11,
+          "old_index": 11,
+          "name": "Darlow",
+          "full_name": "Karl Darlow",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Dalot",
+          "full_name": "Diogo Dalot",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 3,
+          "name": "de Ligt",
+          "full_name": "Matthijs de Ligt",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 10,
+          "name": "Zirkzee",
+          "full_name": "Joshua Zirkzee",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 15,
+          "old_index": 12,
+          "name": "Dorgu",
+          "full_name": "Patrick Dorgu",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 16,
+          "old_index": 13,
+          "name": "Yoro",
+          "full_name": "Leny Yoro",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 17,
+          "old_index": 14,
+          "name": "Amad",
+          "full_name": "Amad Diallo",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 18,
+          "old_index": 15,
+          "name": "Santos",
+          "full_name": "Andrey Santos",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 16,
+          "name": "Tielemans",
+          "full_name": "Youri Tielemans",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 20,
+          "old_index": 20,
+          "name": "Sesko",
+          "full_name": "Benjamin Šeško",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Mainoo",
+          "full_name": "Kobbie Mainoo",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "club": "Liverpool",
+      "order": [
+        0,
+        3,
+        20,
+        14,
+        10,
+        2,
+        13,
+        11,
+        6,
+        8,
+        15,
+        17,
+        1,
+        4,
+        5,
+        7,
+        9,
+        12,
+        16,
+        18,
+        19,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Alisson",
+          "full_name": "Alisson",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "van Dijk",
+          "full_name": "Virgil van Dijk",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 20,
+          "name": "Araujo",
+          "full_name": "Ronald Araújo",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 14,
+          "name": "Tsimikas",
+          "full_name": "Konstantinos Tsimikas",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 10,
+          "name": "Bradley",
+          "full_name": "Conor Bradley",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 2,
+          "name": "Endo",
+          "full_name": "Wataru Endo",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 13,
+          "name": "Gakpo",
+          "full_name": "Cody Gakpo",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 11,
+          "name": "Chiesa",
+          "full_name": "Federico Chiesa",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 6,
+          "name": "Wirtz",
+          "full_name": "Florian Wirtz",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 8,
+          "name": "Isak",
+          "full_name": "Alexander Isak",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 15,
+          "name": "Ekitike",
+          "full_name": "Hugo Ekitiké",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 17,
+          "name": "Mamardashv",
+          "full_name": "Giorgi Mamardashvili",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Gomez",
+          "full_name": "Joe Gomez",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 4,
+          "name": "Jacquet",
+          "full_name": "Jérémy Jacquet",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 5,
+          "name": "Kerkez",
+          "full_name": "Milos Kerkez",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 15,
+          "old_index": 7,
+          "name": "Szoboszlai",
+          "full_name": "Dominik Szoboszlai",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 16,
+          "old_index": 9,
+          "name": "MacAllist",
+          "full_name": "Alexis Mac Allister",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 12,
+          "name": "Leoni",
+          "full_name": "Giovanni Leoni",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 18,
+          "old_index": 16,
+          "name": "Munoz",
+          "full_name": "Víctor Muñoz",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 19,
+          "old_index": 18,
+          "name": "Barcola",
+          "full_name": "Bradley Barcola",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 20,
+          "old_index": 19,
+          "name": "Frimpong",
+          "full_name": "Jeremie Frimpong",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Gravenberc",
+          "full_name": "Ryan Gravenberch",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "club": "Aston Villa",
+      "order": [
+        0,
+        3,
+        4,
+        11,
+        7,
+        14,
+        6,
+        8,
+        18,
+        9,
+        13,
+        21,
+        1,
+        2,
+        5,
+        10,
+        12,
+        15,
+        16,
+        17,
+        19,
+        20
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "CB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Suzuki",
+          "full_name": "Zion Suzuki",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "H-Bellis",
+          "full_name": "Taylor Harwood-Bellis",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 4,
+          "name": "Mings",
+          "full_name": "Tyrone Mings",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 11,
+          "name": "Torres",
+          "full_name": "Pau Torres",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 7,
+          "name": "Kamara",
+          "full_name": "Boubacar Kamara",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 5,
+          "old_index": 14,
+          "name": "Mbaye",
+          "full_name": "Ibrahim Mbaye",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 6,
+          "name": "McGinn",
+          "full_name": "John McGinn",
+          "preferred_role": "AH",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 8,
+          "name": "Buendia",
+          "full_name": "Emiliano Buendía",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 18,
+          "name": "Goretzka",
+          "full_name": "Leon Goretzka",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 9,
+          "name": "Jackson",
+          "full_name": "Nicolas Jackson",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 13,
+          "name": "Abraham",
+          "full_name": "Tammy Abraham",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 21,
+          "name": "Bizot",
+          "full_name": "Marco Bizot",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Cash",
+          "full_name": "Matty Cash",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 2,
+          "name": "Lindelof",
+          "full_name": "Victor Lindelöf",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 5,
+          "name": "Barkley",
+          "full_name": "Ross Barkley",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 15,
+          "old_index": 10,
+          "name": "Ruggeri",
+          "full_name": "Matteo Ruggeri",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 16,
+          "old_index": 12,
+          "name": "Garnacho",
+          "full_name": "Alejandro Garnacho",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 17,
+          "old_index": 15,
+          "name": "Maatsen",
+          "full_name": "Ian Maatsen",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 18,
+          "old_index": 16,
+          "name": "Onana",
+          "full_name": "Amadou Onana",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 17,
+          "name": "Bogarde",
+          "full_name": "Lamare Bogarde",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 20,
+          "old_index": 19,
+          "name": "WanBissaka",
+          "full_name": "Aaron Wan-Bissaka",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 21,
+          "old_index": 20,
+          "name": "Joao Gomes",
+          "full_name": "João Gomes",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 12,
+      "club": "Leeds United",
+      "order": [
+        0,
+        4,
+        12,
+        21,
+        3,
+        18,
+        6,
+        7,
+        10,
+        8,
+        11,
+        13,
+        1,
+        2,
+        5,
+        9,
+        14,
+        15,
+        17,
+        19,
+        20,
+        16
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "CB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Trafford",
+          "full_name": "James Trafford",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 4,
+          "name": "Muharemovi",
+          "full_name": "Tarik Muharemović",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 12,
+          "name": "Bijol",
+          "full_name": "Jaka Bijol",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 21,
+          "name": "Elvedi",
+          "full_name": "Nico Elvedi",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 3,
+          "name": "Ampadu",
+          "full_name": "Ethan Ampadu",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 5,
+          "old_index": 18,
+          "name": "Bahoya",
+          "full_name": "Jean-Mattéo Bahoya",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 6,
+          "name": "James",
+          "full_name": "Daniel James",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 7,
+          "name": "Longstaff",
+          "full_name": "Sean Longstaff",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 10,
+          "name": "Aaronson",
+          "full_name": "Brenden Aaronson",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 8,
+          "name": "C-Lewin",
+          "full_name": "Dominic Calvert-Lewin",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 11,
+          "name": "Nmecha",
+          "full_name": "Lukas Nmecha",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 13,
+          "name": "Zetterer",
+          "full_name": "Michael Zetterer",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Bogle",
+          "full_name": "Jayden Bogle",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 2,
+          "name": "Gudmundsso",
+          "full_name": "Gabriel Gudmundsson",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 5,
+          "name": "Rodon",
+          "full_name": "Joe Rodon",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 15,
+          "old_index": 9,
+          "name": "Wilson",
+          "full_name": "Harry Wilson",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 16,
+          "old_index": 14,
+          "name": "Stach",
+          "full_name": "Anton Stach",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 15,
+          "name": "Okafor",
+          "full_name": "Noah Okafor",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 18,
+          "old_index": 17,
+          "name": "Tanaka",
+          "full_name": "Ao Tanaka",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 19,
+          "name": "Justin",
+          "full_name": "James Justin",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 20,
+          "old_index": 20,
+          "name": "Bard",
+          "full_name": "Melvin Bard",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 21,
+          "old_index": 16,
+          "name": "Cairns",
+          "full_name": "Alex Cairns",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        }
+      ]
+    },
+    {
+      "slot": 13,
+      "club": "Arsenal",
+      "order": [
+        0,
+        2,
+        3,
+        8,
+        10,
+        11,
+        13,
+        14,
+        18,
+        17,
+        19,
+        1,
+        4,
+        5,
+        6,
+        7,
+        9,
+        12,
+        15,
+        16,
+        20,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "CB",
+        "DH",
+        "DH",
+        "OH",
+        "OH",
+        "CF",
+        "LW",
+        "RW"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Raya",
+          "full_name": "David Raya",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 2,
+          "name": "Saliba",
+          "full_name": "William Saliba",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 3,
+          "name": "Gabriel",
+          "full_name": "Gabriel",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 8,
+          "name": "Konsa",
+          "full_name": "Ezri Konsa",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 10,
+          "name": "Rice",
+          "full_name": "Declan Rice",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 5,
+          "old_index": 11,
+          "name": "Zubimendi",
+          "full_name": "Martín Zubimendi",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 13,
+          "name": "Odegaard",
+          "full_name": "Martin Ødegaard",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 14,
+          "name": "Eze",
+          "full_name": "Eberechi Eze",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 18,
+          "name": "Gyokeres",
+          "full_name": "Viktor Gyökeres",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 9,
+          "old_index": 17,
+          "name": "Saka",
+          "full_name": "Bukayo Saka",
+          "preferred_role": "W",
+          "formation_role": "LW"
+        },
+        {
+          "new_index": 10,
+          "old_index": 19,
+          "name": "Madueke",
+          "full_name": "Noni Madueke",
+          "preferred_role": "W",
+          "formation_role": "RW"
+        },
+        {
+          "new_index": 11,
+          "old_index": 1,
+          "name": "Kepa",
+          "full_name": "Kepa Arrizabalaga",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 4,
+          "name": "White",
+          "full_name": "Ben White",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 5,
+          "name": "Timber",
+          "full_name": "Jurriën Timber",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 6,
+          "name": "Hincapie",
+          "full_name": "Piero Hincapié",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 15,
+          "old_index": 7,
+          "name": "Calafiori",
+          "full_name": "Riccardo Calafiori",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 16,
+          "old_index": 9,
+          "name": "L-Skelly",
+          "full_name": "Myles Lewis-Skelly",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 17,
+          "old_index": 12,
+          "name": "Guimaraes",
+          "full_name": "Bruno Guimarães",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 18,
+          "old_index": 15,
+          "name": "Merino",
+          "full_name": "Mikel Merino",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 16,
+          "name": "Nwaneri",
+          "full_name": "Ethan Nwaneri",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 20,
+          "old_index": 20,
+          "name": "Havertz",
+          "full_name": "Kai Havertz",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Tzolis",
+          "full_name": "Christos Tzolis",
+          "preferred_role": "W",
+          "formation_role": "W"
+        }
+      ]
+    },
+    {
+      "slot": 14,
+      "club": "Newcastle United",
+      "order": [
+        0,
+        3,
+        19,
+        2,
+        20,
+        5,
+        13,
+        17,
+        18,
+        8,
+        9,
+        16,
+        1,
+        4,
+        6,
+        7,
+        10,
+        11,
+        12,
+        14,
+        15,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Pope",
+          "full_name": "Nick Pope",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "Botman",
+          "full_name": "Sven Botman",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 19,
+          "name": "Burn",
+          "full_name": "Dan Burn",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 2,
+          "name": "Hall",
+          "full_name": "Lewis Hall",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 20,
+          "name": "Dedic",
+          "full_name": "Amar Dedic",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 5,
+          "name": "Gonzalez",
+          "full_name": "Nico González",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 13,
+          "name": "Toure",
+          "full_name": "Bazoumana Touré",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 17,
+          "name": "Murphy",
+          "full_name": "Jacob Murphy",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 18,
+          "name": "Willock",
+          "full_name": "Joe Willock",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 8,
+          "name": "Wissa",
+          "full_name": "Yoane Wissa",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 9,
+          "name": "Osula",
+          "full_name": "William Osula",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 16,
+          "name": "Hornicek",
+          "full_name": "Lukas Hornicek",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Livramento",
+          "full_name": "Tino Livramento",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 4,
+          "name": "Schar",
+          "full_name": "Fabian Schär",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 6,
+          "name": "Joelinton",
+          "full_name": "Joelinton",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 15,
+          "old_index": 7,
+          "name": "Bamba",
+          "full_name": "Aladji Bamba",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 16,
+          "old_index": 10,
+          "name": "Barnes",
+          "full_name": "Harvey Barnes",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 17,
+          "old_index": 11,
+          "name": "Thiaw",
+          "full_name": "Malick Thiaw",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 18,
+          "old_index": 12,
+          "name": "Steur",
+          "full_name": "Sean Steur",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 14,
+          "name": "Elanga",
+          "full_name": "Anthony Elanga",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 20,
+          "old_index": 15,
+          "name": "Fernandez",
+          "full_name": "Matias Fernandez-Pardo",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Ramsey",
+          "full_name": "Jacob Ramsey",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 16,
+      "club": "Hull City",
+      "order": [
+        0,
+        3,
+        18,
+        19,
+        15,
+        4,
+        20,
+        7,
+        12,
+        8,
+        10,
+        16,
+        1,
+        2,
+        5,
+        6,
+        9,
+        13,
+        14,
+        17,
+        21,
+        11
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "DH",
+        "OH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Butland",
+          "full_name": "Jack Butland",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "Hughes",
+          "full_name": "Charlie Hughes",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 18,
+          "name": "Herrington",
+          "full_name": "Lucas Herrington",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 19,
+          "name": "Targett",
+          "full_name": "Matt Targett",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 15,
+          "name": "N-Cuffy",
+          "full_name": "Brooke Norton-Cuffy",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 4,
+          "name": "Morita",
+          "full_name": "Hidemasa Morita",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 20,
+          "name": "Slater",
+          "full_name": "Regan Slater",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 7,
+          "name": "Matazo",
+          "full_name": "Eliot Matazo",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 12,
+          "name": "HjertoDahl",
+          "full_name": "Jens Hjertø-Dahl",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 8,
+          "name": "McBurnie",
+          "full_name": "Oli McBurnie",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 10,
+          "name": "Gelhardt",
+          "full_name": "Joe Gelhardt",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 16,
+          "name": "Tzolakis",
+          "full_name": "Konstantinos Tzolakis",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Coyle",
+          "full_name": "Lewie Coyle",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 2,
+          "name": "Giles",
+          "full_name": "Ryan Giles",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 5,
+          "name": "Ajayi",
+          "full_name": "Semi Ajayi",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 15,
+          "old_index": 6,
+          "name": "Thomas",
+          "full_name": "Sorba Thomas",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 16,
+          "old_index": 9,
+          "name": "Belloumi",
+          "full_name": "Mohamed Belloumi",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 17,
+          "old_index": 13,
+          "name": "Egan",
+          "full_name": "John Egan",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 18,
+          "old_index": 14,
+          "name": "McNair",
+          "full_name": "Paddy McNair",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 17,
+          "name": "Stroud",
+          "full_name": "Elliot Stroud",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 20,
+          "old_index": 21,
+          "name": "Cho",
+          "full_name": "Mohamed-Ali Cho",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 21,
+          "old_index": 11,
+          "name": "Phillips",
+          "full_name": "Dillon Phillips",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        }
+      ]
+    },
+    {
+      "slot": 17,
+      "club": "Brentford",
+      "order": [
+        0,
+        16,
+        17,
+        20,
+        1,
+        14,
+        21,
+        8,
+        12,
+        7,
+        11,
+        10,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        13,
+        15,
+        18,
+        19
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "DH",
+        "OH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Kelleher",
+          "full_name": "Caoimhín Kelleher",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 16,
+          "name": "Ajer",
+          "full_name": "Kristoffer Ajer",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 17,
+          "name": "Collins",
+          "full_name": "Nathan Collins",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 20,
+          "name": "Diouf",
+          "full_name": "El Hadji Malick Diouf",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 1,
+          "name": "Hickey",
+          "full_name": "Aaron Hickey",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 14,
+          "name": "Sangare",
+          "full_name": "Mamadou Sangaré",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 21,
+          "name": "Janelt",
+          "full_name": "Vitaly Janelt",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 8,
+          "name": "Dasilva",
+          "full_name": "Josh Dasilva",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 12,
+          "name": "Carvalho",
+          "full_name": "Fábio Carvalho",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 7,
+          "name": "Thiago",
+          "full_name": "Igor Thiago",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 11,
+          "name": "Wilson",
+          "full_name": "Callum Wilson",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 10,
+          "name": "Valdimarss",
+          "full_name": "Hákon Valdimarsson",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 2,
+          "name": "Henry",
+          "full_name": "Rico Henry",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 3,
+          "name": "van d.Berg",
+          "full_name": "Sepp van den Berg",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 4,
+          "name": "Yarmoliuk",
+          "full_name": "Yegor Yarmolyuk",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 15,
+          "old_index": 5,
+          "name": "Schade",
+          "full_name": "Kevin Schade",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 16,
+          "old_index": 6,
+          "name": "Jensen",
+          "full_name": "Mathias Jensen",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 9,
+          "name": "Ouattara",
+          "full_name": "Dango Ouattara",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 18,
+          "old_index": 13,
+          "name": "Milambo",
+          "full_name": "Antoni Milambo",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 15,
+          "name": "Anthony",
+          "full_name": "Jaidon Anthony",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 20,
+          "old_index": 18,
+          "name": "L-Potter",
+          "full_name": "Keane Lewis-Potter",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 21,
+          "old_index": 19,
+          "name": "Damsgaard",
+          "full_name": "Mikkel Damsgaard",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 19,
+      "club": "Coventry City",
+      "order": [
+        15,
+        0,
+        17,
+        1,
+        19,
+        13,
+        5,
+        8,
+        3,
+        7,
+        21,
+        11,
+        2,
+        4,
+        6,
+        9,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 15,
+          "name": "Rushworth",
+          "full_name": "Carl Rushworth",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 0,
+          "name": "Pinnock",
+          "full_name": "Ethan Pinnock",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 17,
+          "name": "Latibeaudi",
+          "full_name": "Joel Latibeaudiere",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 1,
+          "name": "Dasilva",
+          "full_name": "Jay Dasilva",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 19,
+          "name": "van Ewijk",
+          "full_name": "Milan van Ewijk",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 13,
+          "name": "Onyeka",
+          "full_name": "Frank Onyeka",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 5,
+          "name": "Sakamoto",
+          "full_name": "Tatsuhiro Sakamoto",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 8,
+          "name": "Mason-Clar",
+          "full_name": "Ephron Mason-Clark",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 3,
+          "name": "Rudoni",
+          "full_name": "Jack Rudoni",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 7,
+          "name": "Simms",
+          "full_name": "Ellis Simms",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 21,
+          "name": "Cherif",
+          "full_name": "Sidiki Chérif",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 11,
+          "name": "Wilson",
+          "full_name": "Ben Wilson",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 2,
+          "name": "Thomas",
+          "full_name": "Bobby Thomas",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 4,
+          "name": "Grimes",
+          "full_name": "Matt Grimes",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 14,
+          "old_index": 6,
+          "name": "Yirenkyi",
+          "full_name": "Caleb Yirenkyi",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 15,
+          "old_index": 9,
+          "name": "Wright",
+          "full_name": "Haji Wright",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 16,
+          "old_index": 10,
+          "name": "Mfuni",
+          "full_name": "Stephen Mfuni",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 17,
+          "old_index": 12,
+          "name": "Awoniyi",
+          "full_name": "Taiwo Awoniyi",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 18,
+          "old_index": 14,
+          "name": "Tchaouna",
+          "full_name": "Loum Tchaouna",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 19,
+          "old_index": 16,
+          "name": "Kesler-H",
+          "full_name": "Kaine Kesler-Hayden",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 20,
+          "old_index": 18,
+          "name": "T-Asante",
+          "full_name": "Brandon Thomas-Asante",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 21,
+          "old_index": 20,
+          "name": "Hamer",
+          "full_name": "Gustavo Hamer",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 21,
+      "club": "Everton",
+      "order": [
+        0,
+        3,
+        4,
+        10,
+        1,
+        14,
+        11,
+        12,
+        15,
+        7,
+        13,
+        8,
+        2,
+        5,
+        6,
+        9,
+        16,
+        18,
+        19,
+        20,
+        17,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Pickford",
+          "full_name": "Jordan Pickford",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "Keane",
+          "full_name": "Michael Keane",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 4,
+          "name": "Tarkowski",
+          "full_name": "James Tarkowski",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 10,
+          "name": "Mykolenko",
+          "full_name": "Vitaliy Mykolenko",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 1,
+          "name": "M-Niles",
+          "full_name": "Ainsley Maitland-Niles",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 14,
+          "name": "Norgaard",
+          "full_name": "Christian Nørgaard",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 11,
+          "name": "George",
+          "full_name": "Tyrique George",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 12,
+          "name": "Dibling",
+          "full_name": "Tyler Dibling",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 15,
+          "name": "Alcaraz",
+          "full_name": "Charly Alcaraz",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 7,
+          "name": "Barry",
+          "full_name": "Thierno Barry",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 13,
+          "name": "Johnson",
+          "full_name": "Brennan Johnson",
+          "preferred_role": "W",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 8,
+          "name": "Travers",
+          "full_name": "Mark Travers",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 2,
+          "name": "Branthwait",
+          "full_name": "Jarrad Branthwaite",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 5,
+          "name": "D-Hall",
+          "full_name": "Kiernan Dewsbury-Hall",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 14,
+          "old_index": 6,
+          "name": "Grealish",
+          "full_name": "Jack Grealish",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 15,
+          "old_index": 9,
+          "name": "O'Brien",
+          "full_name": "Jake O'Brien",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 16,
+          "old_index": 16,
+          "name": "Hackney",
+          "full_name": "Hayden Hackney",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 18,
+          "name": "Rohl",
+          "full_name": "Merlin Röhl",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 18,
+          "old_index": 19,
+          "name": "Garner",
+          "full_name": "James Garner",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 20,
+          "name": "Armstrong",
+          "full_name": "Harrison Armstrong",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 20,
+          "old_index": 17,
+          "name": "King",
+          "full_name": "Tom King",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Barnsley",
+          "full_name": "Fraser Barnsley",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        }
+      ]
+    },
+    {
+      "slot": 22,
+      "club": "AFC Bournemouth",
+      "order": [
+        0,
+        4,
+        12,
+        16,
+        2,
+        13,
+        3,
+        9,
+        17,
+        8,
+        20,
+        18,
+        1,
+        5,
+        6,
+        7,
+        10,
+        11,
+        14,
+        19,
+        21,
+        15
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "OH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Petrovic",
+          "full_name": "Djordje Petrović",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 4,
+          "name": "Hill",
+          "full_name": "James Hill",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 12,
+          "name": "Silva",
+          "full_name": "António Silva",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 16,
+          "name": "Diakite",
+          "full_name": "Bafodé Diakité",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 2,
+          "name": "Truffert",
+          "full_name": "Adrien Truffert",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 13,
+          "name": "Smith",
+          "full_name": "Adam Smith",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 6,
+          "old_index": 3,
+          "name": "Cook",
+          "full_name": "Lewis Cook",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 9,
+          "name": "Christie",
+          "full_name": "Ryan Christie",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 17,
+          "name": "Kluivert",
+          "full_name": "Justin Kluivert",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 8,
+          "name": "Evanilson",
+          "full_name": "Evanilson",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 20,
+          "name": "Kroupi",
+          "full_name": "Junior Kroupi",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 18,
+          "name": "DiGregorio",
+          "full_name": "Michele Di Gregorio",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Araujo",
+          "full_name": "Julián Araujo",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 5,
+          "name": "Soler",
+          "full_name": "Julio Soler",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 6,
+          "name": "Brooks",
+          "full_name": "David Brooks",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 15,
+          "old_index": 7,
+          "name": "Scott",
+          "full_name": "Alex Scott",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 16,
+          "old_index": 10,
+          "name": "G-Doak",
+          "full_name": "Ben Gannon-Doak",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 17,
+          "old_index": 11,
+          "name": "Adams",
+          "full_name": "Tyler Adams",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 18,
+          "old_index": 14,
+          "name": "Tavernier",
+          "full_name": "Marcus Tavernier",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 19,
+          "old_index": 19,
+          "name": "Adli",
+          "full_name": "Amine Adli",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 20,
+          "old_index": 21,
+          "name": "Sanchez",
+          "full_name": "Juanlu Sánchez",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 21,
+          "old_index": 15,
+          "name": "Forster",
+          "full_name": "Fraser Forster",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        }
+      ]
+    },
+    {
+      "slot": 23,
+      "club": "Sunderland",
+      "order": [
+        17,
+        0,
+        1,
+        2,
+        15,
+        20,
+        21,
+        6,
+        10,
+        18,
+        5,
+        16,
+        3,
+        4,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        19
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 17,
+          "name": "Roefs",
+          "full_name": "Robin Roefs",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 0,
+          "name": "Danso",
+          "full_name": "Kevin Danso",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 1,
+          "name": "Ballard",
+          "full_name": "Dan Ballard",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 2,
+          "name": "Methalie",
+          "full_name": "Dayann Méthalie",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 15,
+          "name": "Mukiele",
+          "full_name": "Nordi Mukiele",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 20,
+          "name": "Ahoka",
+          "full_name": "Jules Ahoka",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 21,
+          "name": "Xhaka",
+          "full_name": "Granit Xhaka",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 6,
+          "name": "Angulo",
+          "full_name": "Nilson Angulo",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 10,
+          "name": "Mundle",
+          "full_name": "Romaine Mundle",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 18,
+          "name": "Sadiki",
+          "full_name": "Noah Sadiki",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 10,
+          "old_index": 5,
+          "name": "Brobbey",
+          "full_name": "Brian Brobbey",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 16,
+          "name": "Moore",
+          "full_name": "Simon Moore",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 3,
+          "name": "Talbi",
+          "full_name": "Chemsdine Talbi",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 13,
+          "old_index": 4,
+          "name": "Browne",
+          "full_name": "Alan Browne",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 14,
+          "old_index": 7,
+          "name": "Rigg",
+          "full_name": "Chris Rigg",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 15,
+          "old_index": 8,
+          "name": "Meunier",
+          "full_name": "Thomas Meunier",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 16,
+          "old_index": 9,
+          "name": "O'Nien",
+          "full_name": "Luke O'Nien",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 17,
+          "old_index": 11,
+          "name": "Alderete",
+          "full_name": "Omar Alderete",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 18,
+          "old_index": 12,
+          "name": "Mandava",
+          "full_name": "Reinildo Mandava",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 19,
+          "old_index": 13,
+          "name": "Isidor",
+          "full_name": "Wilson Isidor",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 20,
+          "old_index": 14,
+          "name": "Diarra",
+          "full_name": "Habib Diarra",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 21,
+          "old_index": 19,
+          "name": "Le Fee",
+          "full_name": "Enzo Le Fée",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 24,
+      "club": "Chelsea",
+      "order": [
+        0,
+        2,
+        4,
+        5,
+        17,
+        21,
+        3,
+        15,
+        8,
+        7,
+        14,
+        19,
+        1,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        16,
+        18,
+        20
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "CB",
+        "DH",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Martinez",
+          "full_name": "Emiliano Martínez",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 2,
+          "name": "Fofana",
+          "full_name": "Wesley Fofana",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 4,
+          "name": "Lacroix",
+          "full_name": "Maxence Lacroix",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 5,
+          "name": "Colwill",
+          "full_name": "Levi Colwill",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 17,
+          "name": "Caicedo",
+          "full_name": "Moisés Caicedo",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 5,
+          "old_index": 21,
+          "name": "Lavia",
+          "full_name": "Roméo Lavia",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 3,
+          "name": "Barco",
+          "full_name": "Valentín Barco",
+          "preferred_role": "WB",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 15,
+          "name": "Quenda",
+          "full_name": "Geovany Quenda",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 8,
+          "name": "Palmer",
+          "full_name": "Cole Palmer",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 7,
+          "name": "Joao Pedro",
+          "full_name": "João Pedro",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 14,
+          "name": "Emegha",
+          "full_name": "Emmanuel Emegha",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 19,
+          "name": "Sharman-Lo",
+          "full_name": "Teddy Sharman-Lowe",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Palestra",
+          "full_name": "Marco Palestra",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 6,
+          "name": "Neto",
+          "full_name": "Pedro Neto",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 14,
+          "old_index": 9,
+          "name": "Gittens",
+          "full_name": "Jamie Gittens",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 15,
+          "old_index": 10,
+          "name": "Henderson",
+          "full_name": "Jordan Henderson",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 16,
+          "old_index": 11,
+          "name": "Rogers",
+          "full_name": "Morgan Rogers",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 12,
+          "name": "Welbeck",
+          "full_name": "Danny Welbeck",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 18,
+          "old_index": 13,
+          "name": "Hato",
+          "full_name": "Jorrel Hato",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 19,
+          "old_index": 16,
+          "name": "James",
+          "full_name": "Reece James",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 20,
+          "old_index": 18,
+          "name": "Gusto",
+          "full_name": "Malo Gusto",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 21,
+          "old_index": 20,
+          "name": "Estevao",
+          "full_name": "Estêvão",
+          "preferred_role": "W",
+          "formation_role": "W"
+        }
+      ]
+    },
+    {
+      "slot": 25,
+      "club": "Brighton",
+      "order": [
+        0,
+        3,
+        14,
+        16,
+        19,
+        5,
+        12,
+        8,
+        17,
+        6,
+        13,
+        15,
+        1,
+        2,
+        4,
+        7,
+        9,
+        10,
+        11,
+        18,
+        20,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Verbruggen",
+          "full_name": "Bart Verbruggen",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "Dunk",
+          "full_name": "Lewis Dunk",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 14,
+          "name": "Boscagli",
+          "full_name": "Olivier Boscagli",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 16,
+          "name": "Kadioglu",
+          "full_name": "Ferdi Kadıoğlu",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 19,
+          "name": "Wieffer",
+          "full_name": "Mats Wieffer",
+          "preferred_role": "DH",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 5,
+          "name": "Hinshelwoo",
+          "full_name": "Jack Hinshelwood",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 12,
+          "name": "Osman",
+          "full_name": "Ibrahim Osman",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 8,
+          "name": "Minteh",
+          "full_name": "Yankuba Minteh",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 17,
+          "name": "Gomez",
+          "full_name": "Diego Gómez",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 6,
+          "name": "Tzimas",
+          "full_name": "Stefanos Tzimas",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 13,
+          "name": "Kostoulas",
+          "full_name": "Charalampos Kostoulas",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 15,
+          "name": "Steele",
+          "full_name": "Jason Steele",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Hadjam",
+          "full_name": "Jaouen Hadjam",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 2,
+          "name": "Struijk",
+          "full_name": "Pascal Struijk",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 4,
+          "name": "Mitoma",
+          "full_name": "Kaoru Mitoma",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 15,
+          "old_index": 7,
+          "name": "Rutter",
+          "full_name": "Georginio Rutter",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 16,
+          "old_index": 9,
+          "name": "David",
+          "full_name": "Promise David",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 17,
+          "old_index": 10,
+          "name": "Gross",
+          "full_name": "Pascal Groß",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 18,
+          "old_index": 11,
+          "name": "Andres",
+          "full_name": "Chema Andrés",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 18,
+          "name": "Ayari",
+          "full_name": "Yasin Ayari",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 20,
+          "old_index": 20,
+          "name": "Ferguson",
+          "full_name": "Evan Ferguson",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Yalcouye",
+          "full_name": "Malick Yalcouyé",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        }
+      ]
+    },
+    {
+      "slot": 28,
+      "club": "Ipswich Town",
+      "order": [
+        0,
+        3,
+        18,
+        2,
+        1,
+        4,
+        11,
+        10,
+        14,
+        12,
+        20,
+        19,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13,
+        15,
+        16,
+        17,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "LB",
+        "RB",
+        "DH",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 0,
+          "name": "Palmer",
+          "full_name": "Alex Palmer",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 3,
+          "name": "Kipre",
+          "full_name": "Cédric Kipré",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 18,
+          "name": "O'Shea",
+          "full_name": "Dara O'Shea",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 2,
+          "name": "Davis",
+          "full_name": "Leif Davis",
+          "preferred_role": "WB",
+          "formation_role": "LB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 1,
+          "name": "Furlong",
+          "full_name": "Darnell Furlong",
+          "preferred_role": "WB",
+          "formation_role": "RB"
+        },
+        {
+          "new_index": 5,
+          "old_index": 4,
+          "name": "Matusiwa",
+          "full_name": "Azor Matusiwa",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 11,
+          "name": "Florentino",
+          "full_name": "Florentino",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 10,
+          "name": "Philogene",
+          "full_name": "Jaden Philogene",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 14,
+          "name": "McAteer",
+          "full_name": "Kasey McAteer",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 12,
+          "name": "Taylor",
+          "full_name": "Jack Taylor",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 10,
+          "old_index": 20,
+          "name": "Akpom",
+          "full_name": "Chuba Akpom",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 19,
+          "name": "Button",
+          "full_name": "David Button",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 5,
+          "name": "Diop",
+          "full_name": "Issa Diop",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 6,
+          "name": "Fatawu",
+          "full_name": "Abdul Fatawu",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 14,
+          "old_index": 7,
+          "name": "Egeli",
+          "full_name": "Sindre Walle Egeli",
+          "preferred_role": "W",
+          "formation_role": "W"
+        },
+        {
+          "new_index": 15,
+          "old_index": 8,
+          "name": "Flemming",
+          "full_name": "Zian Flemming",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 16,
+          "old_index": 9,
+          "name": "Enciso",
+          "full_name": "Julio Enciso",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 13,
+          "name": "Emersonn",
+          "full_name": "Emersonn",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 18,
+          "old_index": 15,
+          "name": "Lukic",
+          "full_name": "Saša Lukić",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 16,
+          "name": "Greaves",
+          "full_name": "Jacob Greaves",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 20,
+          "old_index": 17,
+          "name": "Palacios",
+          "full_name": "Exequiel Palacios",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Maeda",
+          "full_name": "Daizen Maeda",
+          "preferred_role": "W",
+          "formation_role": "W"
+        }
+      ]
+    },
+    {
+      "slot": 29,
+      "club": "Nottingham Forest",
+      "order": [
+        19,
+        0,
+        3,
+        16,
+        4,
+        5,
+        11,
+        6,
+        8,
+        7,
+        9,
+        10,
+        1,
+        2,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        20,
+        21
+      ],
+      "existing_native_formation_roles": [
+        "GK",
+        "CB",
+        "CB",
+        "CB",
+        "DH",
+        "LH",
+        "RH",
+        "OH",
+        "OH",
+        "CF",
+        "CF"
+      ],
+      "lineup": [
+        {
+          "new_index": 0,
+          "old_index": 19,
+          "name": "Sels",
+          "full_name": "Matz Sels",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 1,
+          "old_index": 0,
+          "name": "Diomande",
+          "full_name": "Ousmane Diomande",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 2,
+          "old_index": 3,
+          "name": "Murillo",
+          "full_name": "Murillo",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 3,
+          "old_index": 16,
+          "name": "Cunha",
+          "full_name": "Jair Cunha",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 4,
+          "old_index": 4,
+          "name": "Sangare",
+          "full_name": "Ibrahim Sangaré",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 5,
+          "old_index": 5,
+          "name": "Hudson-Odo",
+          "full_name": "Callum Hudson-Odoi",
+          "preferred_role": "W",
+          "formation_role": "LH"
+        },
+        {
+          "new_index": 6,
+          "old_index": 11,
+          "name": "Ndoye",
+          "full_name": "Dan Ndoye",
+          "preferred_role": "W",
+          "formation_role": "RH"
+        },
+        {
+          "new_index": 7,
+          "old_index": 6,
+          "name": "Dominguez",
+          "full_name": "Nicolás Domínguez",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 8,
+          "old_index": 8,
+          "name": "GibbsWhite",
+          "full_name": "Morgan Gibbs-White",
+          "preferred_role": "AH",
+          "formation_role": "OH"
+        },
+        {
+          "new_index": 9,
+          "old_index": 7,
+          "name": "Wood",
+          "full_name": "Chris Wood",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 10,
+          "old_index": 9,
+          "name": "Jesus",
+          "full_name": "Igor Jesus",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 11,
+          "old_index": 10,
+          "name": "Victor",
+          "full_name": "John Victor",
+          "preferred_role": "GK",
+          "formation_role": "GK"
+        },
+        {
+          "new_index": 12,
+          "old_index": 1,
+          "name": "Williams",
+          "full_name": "Neco Williams",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 13,
+          "old_index": 2,
+          "name": "Morato",
+          "full_name": "Morato",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        },
+        {
+          "new_index": 14,
+          "old_index": 12,
+          "name": "Kalimuendo",
+          "full_name": "Arnaud Kalimuendo",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 15,
+          "old_index": 13,
+          "name": "Delap",
+          "full_name": "Liam Delap",
+          "preferred_role": "CF",
+          "formation_role": "CF"
+        },
+        {
+          "new_index": 16,
+          "old_index": 14,
+          "name": "Schlager",
+          "full_name": "Xaver Schlager",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 17,
+          "old_index": 15,
+          "name": "Yates",
+          "full_name": "Ryan Yates",
+          "preferred_role": "DH",
+          "formation_role": "DH"
+        },
+        {
+          "new_index": 18,
+          "old_index": 17,
+          "name": "McAtee",
+          "full_name": "James McAtee",
+          "preferred_role": "AH",
+          "formation_role": "AH"
+        },
+        {
+          "new_index": 19,
+          "old_index": 18,
+          "name": "Netz",
+          "full_name": "Luca Netz",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 20,
+          "old_index": 20,
+          "name": "Munoz",
+          "full_name": "Daniel Muñoz",
+          "preferred_role": "WB",
+          "formation_role": "WB"
+        },
+        {
+          "new_index": 21,
+          "old_index": 21,
+          "name": "Milenkovic",
+          "full_name": "Nikola Milenković",
+          "preferred_role": "CB",
+          "formation_role": "CB"
+        }
+      ]
+    }
+  ],
+  "ratings_policy": "Editorial role-appropriate game balancing in native 2..9 scale; no claim of official real-world ability ratings",
+  "cached_position_sources_date": "2026-10-15",
+  "fresh_Transfermarkt_profile_access": "HTTP 403; existing identity-checked cached sources used",
+  "target_file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_5.bin",
+  "cue_file": "ISS Pro Evolution - MATCHDAY99_v09_5.cue",
+  "target_bytes": 216739152,
+  "sources": [
+    {
+      "version": "v0.9.4",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_4.bin",
+      "sha256": "1fc70cd075a00da1030a06143c4efa246d9df713c0e4467400666280aafe9504",
+      "patch": "MATCHDAY99_v09_4_to_v09_5.bps",
+      "patch_sha256": "34e47e40a4a22a5421e6187d280db73a9493d79dd69147c320564911b49e0da6",
+      "patch_bytes": 11911
+    },
+    {
+      "version": "v0.9.3",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_3.bin",
+      "sha256": "c7c4186c609d21181c9586ba9cd18b27d6a855e44a191b3aefa895a80d20b7b6",
+      "patch": "MATCHDAY99_v09_3_to_v09_5.bps",
+      "patch_sha256": "dfe175d318ad548968682887e7439aed13c872067316c41370ef88854df48aac",
+      "patch_bytes": 12134
+    },
+    {
+      "version": "v0.9.2",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_2.bin",
+      "sha256": "2b6a0fa935d82a63df9f8ea7ec5f1b71fd70f2bb71ebe46ee995b054cfe8b34d",
+      "patch": "MATCHDAY99_v09_2_to_v09_5.bps",
+      "patch_sha256": "a6faa8c0593b0fb63ac3e88085932dc990602d9e7a514c23211afb2a40999a7b",
+      "patch_bytes": 12501
+    },
+    {
+      "version": "v0.9.1",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09_1.bin",
+      "sha256": "ba8c9560305e466c76e11e5a23d480afbd06db1001eee5170dd03e0a4cd74d8a",
+      "patch": "MATCHDAY99_v09_1_to_v09_5.bps",
+      "patch_sha256": "d14e0b407f20249c1453355293e712e6061711b63ca48f647497f3f8694b8887",
+      "patch_bytes": 485466
+    },
+    {
+      "version": "v0.8",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v08.bin",
+      "sha256": "7d2f3bd3827e36d3badeee14871674fcc3bc91e693928437f3b089de70d9372c",
+      "patch": "MATCHDAY99_v08_to_v09_5.bps",
+      "patch_sha256": "f0f7b6a921bda765b4dd0ebd964665f64901521bb5a8f63e45bc157e19c9d333",
+      "patch_bytes": 879809
+    },
+    {
+      "version": "v0.9",
+      "file": "ISS Pro Evolution (Track 01) - MATCHDAY99_v09.bin",
+      "sha256": "cd19a0452a1ad901ca997fa5c7a597a9a1316d6083d07dd42ec79eaebb0acd9d",
+      "patch": "MATCHDAY99_v09_to_v09_5.bps",
+      "patch_sha256": "b00fa8a4dda0fe881302e4abf8a8645cd8786f1ea485dbf1edfdf7f2b7c24acc",
+      "patch_bytes": 624106
+    }
+  ],
+  "audio_tracks": [
+    {
+      "file": "ISS Pro Evolution (Track 03).bin",
+      "size": 16962624,
+      "crc32": "357f7393",
+      "sha256": "354bbbb1029db800d7fb39b2febf18f0246e629c2725d188d67223be89ee3a29"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 04).bin",
+      "size": 4534656,
+      "crc32": "f3806032",
+      "sha256": "5fc8367e709644c968e033528ee55beb909681946bcec3fb669a6c544cc81ce6"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 05).bin",
+      "size": 18084528,
+      "crc32": "a06b85be",
+      "sha256": "1d8837c84c9587d755a190d1d19ce6e0d6f84d82cb126d7b3baa83a8591bb902"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 06).bin",
+      "size": 17164896,
+      "crc32": "8b281741",
+      "sha256": "75cfc5b34e78a294b467f8631349bb5bd679cc9e658cb37cd348ac0cdc85883d"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 07).bin",
+      "size": 19020624,
+      "crc32": "5a217a89",
+      "sha256": "7e646931a3750873a51a04c6d0f683997270db63f4a972b7e1f13b21d85cff49"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 08).bin",
+      "size": 20556480,
+      "crc32": "a1ef2a4a",
+      "sha256": "9372dc5c7d863eab1325f53c6cd87f7457b7854c47a9a3db92daadf9457a4e94"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 09).bin",
+      "size": 19864992,
+      "crc32": "da91b98f",
+      "sha256": "3e2ebcf61a8a6c99b45f9062500d4c8c4bc6da874325f607f2e838016e07faec"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 10).bin",
+      "size": 25458048,
+      "crc32": "6835bbac",
+      "sha256": "008e9362f31d0b2294612fbc8ad1c594135970c85ba71d643f9d63fc21041e25"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 11).bin",
+      "size": 1100736,
+      "crc32": "838f9a7b",
+      "sha256": "9c940f07331e4ad6d5463bed0ec7221ac6ec1972e4b647fa10a8cf54b906dc06"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 12).bin",
+      "size": 41164704,
+      "crc32": "ac481053",
+      "sha256": "bd7d13fbe906bf35823cdffe134c2ef3e150db7a581287dba1e4b08715fbbfb3"
+    },
+    {
+      "file": "ISS Pro Evolution (Track 02).bin",
+      "size": 7023072,
+      "crc32": "1fec2e9a",
+      "sha256": "854f6dfe1e9a30c20f8a5ba6c5f6d830876221d0e6f95f968f5d838e78a29f11"
+    }
+  ],
+  "cue_sha256": "2fded7d96fd4d1560f0279a52647b439873d504e317c5310a2544d4e4dc237fc"
+}

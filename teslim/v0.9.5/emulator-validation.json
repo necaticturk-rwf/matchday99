@@ -1,0 +1,181 @@
+{
+  "emulator": "PCSX-ReARMed libretro c881679 / HLE BIOS / software GPU",
+  "cold_boot_source": "final v0.9.5 CUE, no older-version state",
+  "clubs": [
+    {
+      "slot": 1,
+      "club": "Crystal Palace",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 2,
+      "club": "Tottenham Hotspur",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 5,
+      "club": "Manchester City",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 7,
+      "club": "Fulham",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 8,
+      "club": "Manchester United",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 9,
+      "club": "Liverpool",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 10,
+      "club": "Aston Villa",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 12,
+      "club": "Leeds United",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 13,
+      "club": "Arsenal",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 14,
+      "club": "Newcastle United",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 16,
+      "club": "Hull City",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 17,
+      "club": "Brentford",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 19,
+      "club": "Coventry City",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 21,
+      "club": "Everton",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 22,
+      "club": "AFC Bournemouth",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 23,
+      "club": "Sunderland",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 24,
+      "club": "Chelsea",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 25,
+      "club": "Brighton",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 28,
+      "club": "Ipswich Town",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    },
+    {
+      "slot": 29,
+      "club": "Nottingham Forest",
+      "all_22_complete_attribute_records_height_build_and_skin_verified_in_live_selection_RAM": true,
+      "both_menu_and_match_kits_verified": true,
+      "native_formation_and_corrected_starting_XI_captured": true,
+      "both_team_photos_and_match_start_captured": true
+    }
+  ],
+  "ePSXe_tested": false,
+  "all_15_ability_bitfields_individually_verified_using_native_editor": true,
+  "Leeds_name_six_language_tables_verified": true,
+  "screenshots_visually_reviewed": true,
+  "tested_track01_sha256": "3ee7a4b881aad442d239a67a0612bad0df63f5435f82a4732e02378d7604f5ab",
+  "review_scope": "20 native starting XI screens and 40 home/away team photos; corrected Ipswich and Bournemouth XI screens reviewed at full resolution.",
+  "all_440_packed_names_roles_and_abilities_match_expected_in_live_RAM": true,
+  "all_20_match_starts_verified": true,
+  "identity_preservation": "Binary validator checks appearance bits per player identity, not atlas byte equality: atlases legitimately change when starting XIs change.",
+  "Ipswich_native_UI_additional_checks": {
+    "Palmer_corrected_keeper_profile_displayed": true,
+    "David_Button_visible_reserve_GK_and_corrected_keeper_stats_displayed": true,
+    "Florentino_visible_starting_DH": true,
+    "Florentino_15_corrected_DH_abilities_displayed": true
+  }
+}

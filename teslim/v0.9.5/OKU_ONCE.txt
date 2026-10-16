@@ -1,0 +1,81 @@
+MATCHDAY 99 v0.9.5 — Mevki, kaleci ve yetenek düzeltmeleri
+
+KURULUM
+1. ZIP'e sağ tık > Tümünü ayıkla.
+2. KUR_V09_5.cmd dosyasına çift tıkla. Python 3 / py yeterlidir.
+3. Oyun bulunamazsa mevcut BIN ve 11 ses parçasının olduğu klasörü seç;
+   aynı klasörü KUR_V09_5.cmd dosyasının üzerine de sürükleyebilirsin.
+4. Kurucu eski dosyaları değiştirmeden ayrı MATCHDAY99_v09_5 klasöründe
+   yeni BIN/CUE ve ses kopyalarını oluşturur, SHA-256 ile doğrular.
+5. ePSXe'yi kapatıp yeniden aç; ISS Pro Evolution - MATCHDAY99_v09_5.cue
+   dosyasını aç. Eski save state yükleme: eski kadroyu RAM'e geri getirir.
+
+İsteğe bağlı terminal kullanımı (normal kurulum için gerekli değil):
+py apply_v09_5.py "mevcut oyun klasörü" "yeni boş çıktı klasörü"
+
+v0.9.4, v0.9.3, v0.9.2, v0.9.1, v0.9 ve v0.8 desteklenir.
+Kurucu kaynak sürümü dosya adından değil SHA-256 ile tanır. Bu sürümlerdeki
+önceki düzeltmelerin tümünü içeren aynı v0.9.5 çıktısını üretir.
+Elle değiştirilmiş / farklı BIN kaynakları sessizce kabul edilmez.
+Eski dosyalar korunur. Dolu çıktı klasörünün üzerine yazılmaz; otomatik mod
+önceden ürettiği doğrulanmış çıktıyı tekrar kullanabilir.
+
+DÜZELTİLENLER
+- David Button zaten kadrodaydı; şimdi Ipswich'in ilk yedeğinde gerçek GK.
+- Florentino GK yerine DH (ön libero). İlgili 15 yeteneği bu role uyarlandı.
+- Alex Palmer kaleci; uygunsuz 9 hücum/şut/teknik değerleri düzeltildi.
+- Tottenham, Coventry, Sunderland ve Forest'ın kalecisiz varsayılan ilk 11'i
+  gerçek kalecilerle düzeltildi. Tüm 20 takımda ilk 11 ve yedek GK denetlendi.
+- Toplam 19 oyuncunun asıl mevkisi, 62 oyuncunun yetenek profili düzeltildi.
+  45 gerçek kalecinin profili ve mevki hatasından etkilenen saha oyuncuları
+  bu kapsama dahildir. Geçerli alternatif mevkiler korunur.
+- İlk 11'ler oyunun mevcut dizilişindeki görevlere uygun yeniden sıralandı.
+  388 oyuncu kaydı yer değiştirdi; isim ve 12 baytlık özellik kaydı birlikte
+  taşındı. Oyuncu eklenmedi, silinmedi, kulüpler arasında transfer yapılmadı.
+- 440 oyuncunun boy, vücut tipi, ten rengi, yüz/saç, yaş, forma numarası,
+  ayakkabı ve diğer kişisel bitleri kişi başına birebir korundu. Forma,
+  bayrak, Leeds adı ve önceki görüntü düzeltmeleri korundu.
+
+PUANLAR / KAYNAK SINIRI
+Mevkiler 15 Ekim 2026 tarihli, kimlikleri doğrulanmış Transfermarkt kadro
+sayfaları (436 oyuncu + 4 bireysel profil) ve mevcut resmî Premier League
+positionInfo kayıtlarıyla karşılaştırıldı. Yeni Transfermarkt istekleri
+HTTP 403 verdiği için kayıtlı kaynaklar kullanıldı. İkincil doğal mevkiler
+ve oyundaki kısıtlı mevki seçenekleri ayrıca gözden geçirildi.
+Yetenekler oyunun 2–9 ölçeğinde editöryal oyun dengesi değerleridir;
+Transfermarkt'tan ya da başka bir siteden alınmış resmî yetenek puanları
+oldukları iddia edilmez. Her değişikliğin eski/yeni değerleri pakettedir.
+
+TESTLER
+- Yeni CUE PCSX-ReARMed / HLE BIOS / yazılım GPU ile baştan açıldı.
+- 20 kulübün 440 isim ve tam özellik kaydı canlı oyun RAM'inde doğrulandı.
+- 20 ilk 11 ekranı, 40 iç saha/deplasman takım fotoğrafı ve 20 maç başlangıcı
+  kaydedildi. Forma paletleri ve dokuları sayısal olarak da doğrulandı.
+- Oyunun editöründe 15 yetenek tek tek 5'ten 6'ya değiştirilerek her birinin
+  kayıt bitleri doğrulandı; rastgele ardışık bit sırası varsayılmadı.
+- v0.9.4'e göre yalnız SELECT.BIN içindeki 20 kulübün oyuncu özellikleri ve
+  isim sıraları değişti; diğer 244 ISO dosyası aynıdır. Değişen 10 CD
+  sektörünün EDC/ECC değerleri yeniden hesaplandı ve doğrulandı.
+- Kurucu altı desteklenen kaynaktan aynı doğrulanmış BIN/CUE ve 11 ses
+  parçasını oluşturdu. Tekrar çalıştırma, dolu çıktı, eksik ses ve bozuk
+  yama kontrolleri geçti. Kaynaklar değişmedi.
+- Windows .cmd / klasör penceresi, ePSXe ve gerçek PS1 bu ortamda denenmedi.
+
+PAKET İÇERİĞİ
+MATCHDAY99_v09_5_Premier_League_20_Takim.xlsx: 20 takım / 440 oyuncu;
+  mevkiler, ilk 11/yedek, boy/kilo ve 15 yetenek. 22 sekme, filtrelenebilir.
+MEVKI_YETENEK_DEGISIKLIKLERI.csv: eski -> yeni rol/yetenekler (62 oyuncu).
+OYUNCU_MEVKI_YETENEK_DENETIMI.json: 440 kimlik, tüm eski/yeni kayıtlar.
+source-validation.json: oyuncu başına kaynaklar ve asıl/alternatif mevkiler.
+binary-validation.json, emulator-validation.json, installer-validation.json,
+excel-validation.json: teknik test sonuçları.
+MEVKILER_ONCE_SONRA.png, IPSWICH_KALECI_ONCE_SONRA.png:
+  eski/yeni doğal oyun ekranlarından karşılaştırmalar.
+20-clubs-corrected-XI.png: tüm düzeltilmiş ilk 11'ler.
+20-clubs-positions-emulator.png: 40 takım fotoğrafı.
+
+Yeni Track 01 SHA-256:
+3ee7a4b881aad442d239a67a0612bad0df63f5435f82a4732e02378d7604f5ab
+
+Bu paket tam oyun içermez. Mevcut oyuna doğrulanmış BPS uygulayıp
+emülatörde açılabilir BIN/CUE üretir; orijinal dosyalara dokunmaz.

@@ -1,10 +1,12 @@
 # MATCHDAY 99
 
-[**20 Premier League kulübü / 440 oyuncu — Excel kadro listesini indir**](teslim/kadrolar/README.md).
+[**v0.9.5 — Mevki, kaleci ve yetenek düzeltme yamasını indir**](teslim/v0.9.5/README.md).
 
-[**v0.9.4 — Oyuncu boyu ve vücut tipi güncellemesini indir**](teslim/v0.9.4/README.md).
+David Button Ipswich'in yedek kalecisi, Florentino ön libero olarak düzeltildi. 20 kulübün 440 oyuncusu denetlendi; 19 mevki ve 62 yetenek profili güncellendi. İlk 11 ve yedek kaleci sıraları mevcut dizilişlere uygun düzenlendi. Boy, vücut tipi, ten rengi, yüz/saç, forma numarası, 40 forma ve bayrak düzeltmeleri korundu. Emülatör ve altı kaynak sürümden kurulum kontrolleri geçti; kaynak oyunlar değişmedi.
 
-439 boy ve 431 kilo kaydı kaynaklandırıldı; 418 boy ve 327 doğal vücut tipi seçimi güncellendi. Oyunda sayısal kg alanı bulunmadığından kilo, A–H vücut tipleriyle yaklaşık temsil edilir. Doğrulanamayan dokuz kilonun mevcut vücut tipleri ve Fraser Barnsley'nin boyu korundu. Önceki ten/Leeds adı, 40 forma, bayrak/doku düzeltmeleri ve diğer oyuncu özellikleri aynıdır. Çift tıklanan kurucu kaynakları koruyarak ayrı, doğrulanmış BIN/CUE oluşturur.
+[**Güncel Excel — 20 Premier League kulübü / 440 oyuncu, mevkiler ve yetenekler**](teslim/kadrolar/README.md).
+
+[Önceki boy ve vücut tipi güncellemesi: v0.9.4](teslim/v0.9.4/README.md).
 
 [Önceki Leeds United ve ten güncellemesi: v0.9.3](teslim/v0.9.3/README.md).
 

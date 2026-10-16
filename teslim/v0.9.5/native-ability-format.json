@@ -1,0 +1,122 @@
+[
+  {
+    "attribute": "attack",
+    "record_bit_offset": 61,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "defense",
+    "record_bit_offset": 64,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "strength",
+    "record_bit_offset": 46,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "stamina",
+    "record_bit_offset": 49,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "speed",
+    "record_bit_offset": 55,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "acceleration",
+    "record_bit_offset": 58,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "pass_accuracy",
+    "record_bit_offset": 73,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "kick_power",
+    "record_bit_offset": 67,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "kick_accuracy",
+    "record_bit_offset": 70,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "jump",
+    "record_bit_offset": 82,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "heading",
+    "record_bit_offset": 79,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "technique",
+    "record_bit_offset": 76,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "dribbling",
+    "record_bit_offset": 52,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "swerve",
+    "record_bit_offset": 85,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  },
+  {
+    "attribute": "aggression",
+    "record_bit_offset": 88,
+    "bit_width": 3,
+    "display_value_offset": 2,
+    "native_UI_before": 5,
+    "native_UI_after": 6
+  }
+]
