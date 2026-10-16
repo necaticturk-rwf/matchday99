@@ -64,7 +64,9 @@ TESTLER
 PAKET İÇERİĞİ
 MATCHDAY99_v09_5_Premier_League_20_Takim.xlsx: 20 takım / 440 oyuncu;
   mevkiler, ilk 11/yedek, boy/kilo ve 15 yetenek. 22 sekme, filtrelenebilir.
-MEVKI_YETENEK_DEGISIKLIKLERI.csv: eski -> yeni rol/yetenekler (62 oyuncu).
+MEVKI_YETENEK_DEGISIKLIKLERI.csv: eski -> yeni rol/yetenekler (64 oyuncu).
+  62 yetenek profili değişti; Grimes ve Lavia sadece mevki değiştirir,
+  mevcut puanları yeni mevkiye zaten uygun olduğu için korunmuştur.
 OYUNCU_MEVKI_YETENEK_DENETIMI.json: 440 kimlik, tüm eski/yeni kayıtlar.
 source-validation.json: oyuncu başına kaynaklar ve asıl/alternatif mevkiler.
 binary-validation.json, emulator-validation.json, installer-validation.json,
